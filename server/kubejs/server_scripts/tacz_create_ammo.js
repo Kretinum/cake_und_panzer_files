@@ -4,7 +4,8 @@
 //   results use {"id": ...}  (not {"item":{"id":...}}), sequenced_assembly uses transitional_item.
 //
 // Chain per caliber:
-//   Ammo Workbench (selectable) --> 5x Unprepared casing (kubejs:casing_<key>)
+//   brass cylinder --saw/cutting--> 5x Unprepared casing  (automation)
+//   Ammo Workbench (selectable) --> 5x Unprepared casing  (for hand-craft / saw-output filters)
 //   Unprepared --sequenced_assembly[deploy primer, deploy gunpowder]--> Prepared (kubejs:casing_full_<key>)
 //   Prepared + tacz_c:bullet --deploying--> tacz:ammo x8  (with custom_data AmmoId)
 // Casing items are registered in startup_scripts/tacz_casings.js.
@@ -27,9 +28,16 @@ ServerEvents.recipes(event => {
     var cas  = "kubejs:casing_" + key        // unprepared
     var casf = "kubejs:casing_full_" + key   // prepared
 
-    // 1) Ammo Workbench (tacz:gun_smith_table_crafting): craft the SPECIFIC unprepared casing.
-    //    Selectable in the table UI -> no saw ambiguity, fully survival (no molds/cheats).
-    //    Result type "item" is accepted by the table parser; group = an ammo-workbench tab.
+    // 1a) cutting (mechanical saw): brass cylinder -> 5 unprepared casings. Keeps full automation.
+    event.custom({
+      type: "create:cutting",
+      ingredients: [ { item: "tacz_c:annealed_brass_cylinder" } ],
+      results: [ { id: cas, count: 5 } ]
+    }).id("tacz_create_ammo:cut_" + key)
+
+    // 1b) Ammo Workbench (tacz:gun_smith_table_crafting): craft the SPECIFIC unprepared casing by hand.
+    //     Selectable in the table UI; use the crafted casing as a filter (funnels/belts) to sort saw output.
+    //     Result type "item" is accepted by the table parser; group = an ammo-workbench tab.
     event.custom({
       type: "tacz:gun_smith_table_crafting",
       materials: [ { item: { item: "tacz_c:annealed_brass_cylinder" }, count: 1 } ],
