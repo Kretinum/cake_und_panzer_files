@@ -1,0 +1,8 @@
+name = "tracks"
+filename = "tracks-neoforge-1.21.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Kretinum/cake_und_panzer_files/releases/download/loose-jars/tracks-neoforge-1.21.1-1.0.1.jar"
+hash-format = "sha256"
+hash = "b126b2522a129c13ebec6491b8602726bad9a3df201cf906468ba583796125c8"

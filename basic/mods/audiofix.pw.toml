@@ -1,0 +1,8 @@
+name = "audiofix"
+filename = "audiofix-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Kretinum/cake_und_panzer_files/releases/download/loose-jars/audiofix-1.0.0.jar"
+hash-format = "sha256"
+hash = "fdb6561db1bee56026f88dc0a7383312156332fd093d78fbc66ba1cbf7143891"

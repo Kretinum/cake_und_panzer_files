@@ -1,0 +1,8 @@
+name = "gunsmithlib"
+filename = "gunsmithlib-neoforge-1.21.1-tacz1.1.8-6.0.3.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Kretinum/cake_und_panzer_files/releases/download/loose-jars/gunsmithlib-neoforge-1.21.1-tacz1.1.8-6.0.3.jar"
+hash-format = "sha256"
+hash = "efe50cab90043285fa1f6735cda4b742345871b6b15713e6581fa8df5420c8bb"
