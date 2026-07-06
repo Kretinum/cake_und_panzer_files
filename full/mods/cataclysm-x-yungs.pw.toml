@@ -1,6 +1,6 @@
 name = "Cataclysm x YUNG's Better Nether Fortresses Compat"
 filename = "cataclysmfortresses-1.21.1-NeoForge.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Ut5Iiqct/versions/oHn1zPxT/cataclysmfortresses-1.21.1-NeoForge.jar"
