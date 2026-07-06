@@ -1,0 +1,8 @@
+name = "j10b"
+filename = "J10B_TVC_weapons.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Kretinum/cake_und_panzer_files/releases/download/gunpacks/J10B_TVC_weapons.zip"
+hash-format = "sha256"
+hash = "9a7ad27eb307042b262c92d6a155306a0bf55dd3d05bfd3da6626bfb19d939d0"

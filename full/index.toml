@@ -8761,3 +8761,43 @@ metafile = true
 file = "shaderpacks/hysteria-shaders.pw.toml"
 hash = "6b8447f885cb5a18d2d615390aee1050df5b8a498d4b15f6c4d89fb7ddb0b7ca"
 metafile = true
+
+[[files]]
+file = "tacz/arips.pw.toml"
+hash = "9d00be04671990315529e64c0ca2b9be6e613506940e6637fb726b620c6d1429"
+metafile = true
+
+[[files]]
+file = "tacz/coldwar.pw.toml"
+hash = "e7e1cb96b87bfa5ed790192a6f02805d33865320186c4c70076b265b25a54f4e"
+metafile = true
+
+[[files]]
+file = "tacz/create-armorer.pw.toml"
+hash = "d60b73212ac0c5caac109c50c6175767b8a5e246f12345faedf1b4f729b65a74"
+metafile = true
+
+[[files]]
+file = "tacz/endlessammo.pw.toml"
+hash = "5c77972400be1cedd4a3700f76b206287850ee487f721876c90389104feb54db"
+metafile = true
+
+[[files]]
+file = "tacz/f4ej.pw.toml"
+hash = "cc725ac10d6c966d10107503c29e2e4470acd1339e62f3b08efd53ad02a3c515"
+metafile = true
+
+[[files]]
+file = "tacz/j10b.pw.toml"
+hash = "89798fd4819f687a9c2ee6a304a05f49b283b3c99a9e174b1afbc288d15f73d1"
+metafile = true
+
+[[files]]
+file = "tacz/j20s.pw.toml"
+hash = "7c8a5f1c5564f6c804a6c4f48654070630255e03ff45b76a0f1055c0975bfe5f"
+metafile = true
+
+[[files]]
+file = "tacz/maxstuff.pw.toml"
+hash = "79256c7c42042bb0a42f1915414d2ff42e30a1773882ea54597cdadd38040b77"
+metafile = true

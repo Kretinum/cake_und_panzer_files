@@ -1,0 +1,8 @@
+name = "j20s"
+filename = "J20S_weapons.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Kretinum/cake_und_panzer_files/releases/download/gunpacks/J20S_weapons.zip"
+hash-format = "sha256"
+hash = "cee95c8af5af3502aa085424e826cedd1ffcc63f421b798c71d36daa3507d430"

@@ -1,0 +1,8 @@
+name = "coldwar"
+filename = "Cold.War.from.1947-1991.v0.51.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Kretinum/cake_und_panzer_files/releases/download/gunpacks/Cold.War.from.1947-1991.v0.51.zip"
+hash-format = "sha256"
+hash = "a5a4766a5b8ad0272c1b0d921c5402b0c61a8cc12169d7411585d3dbf6b1246b"
