@@ -44,6 +44,26 @@ gh release create "$NEW" --repo "$GH_REPO" --title "Pack $NEW" --notes "Release 
   || echo "    (release $NEW already exists, reusing tag)"
 echo "    tagged + released $NEW"
 
+# ---- 4b. build + attach the client "extras" zip per pack ----
+# Loose overrides (settings, font, shaders, configs — incl. special-char names jsDelivr chokes on)
+# ship as ONE reliable Release download instead of ~60 jsDelivr files. The pre-launch script grabs
+# this and extracts it; packwiz then verifies-and-skips the same files (they stay in the index).
+echo "==> Building extras (overrides) zips..."
+for p in full basic; do
+  case "$p" in
+    full)  name="CAKE-Full-overrides.zip" ;;
+    basic) name="CAKE-Basic-overrides.zip" ;;
+  esac
+  z="$REPO_DIR/$name"
+  rm -f "$z"
+  ( cd "$p" && zip -r -q "$z" . \
+      -x 'pack.toml' -x 'index.toml' -x '.packwizignore' \
+      -x '*.pw.toml' -x '*.DS_Store' -x '*/.DS_Store' -x 'mods/*' )
+  gh release upload "$NEW" "$z" --repo "$GH_REPO" --clobber >/dev/null 2>&1
+  echo "    attached $name ($(du -h "$z" | cut -f1 | tr -d ' '))"
+  rm -f "$z"
+done
+
 # ---- 5. warm the jsDelivr cache for this tag (so first friend install has no cold-cache 404) ----
 echo "==> Warming CDN cache (a minute)..."
 warm_list="$(mktemp)"
