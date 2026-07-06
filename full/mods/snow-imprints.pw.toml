@@ -1,0 +1,12 @@
+name = "Soft Imprints"
+filename = "softimprints-neoforge-1.21.1-2.6.08.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UhxJgB1o/versions/fDIdiA6K/softimprints-neoforge-1.21.1-2.6.08.jar"
+hash-format = "sha512"
+hash = "ba737c1cdd1b48609ed037a0c4e4adb0d304999258690279a3d3f4bfee6510cba10528e272dc1cfbe75ab5adcb09437b3b211b0ed6f184e15704b83571d8efd1"
+
+[update.modrinth]
+mod-id = "UhxJgB1o"
+version = "fDIdiA6K"

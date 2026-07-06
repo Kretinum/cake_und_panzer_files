@@ -1,0 +1,12 @@
+name = "TaCZ Pack Upgrader"
+filename = "tacz-pack-upgrader-2.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fx5N8Hgd/versions/jesjiaQC/tacz-pack-upgrader-2.1.2.jar"
+hash-format = "sha512"
+hash = "6bd872d4029ff7541c406a23f9b013b1ff86d1739972621d9c927b86b606b70334f57aa9634f0e0fc574d3ff2bedc7087a79a0b69c88c42f8935be4c1c01f197"
+
+[update.modrinth]
+mod-id = "fx5N8Hgd"
+version = "jesjiaQC"

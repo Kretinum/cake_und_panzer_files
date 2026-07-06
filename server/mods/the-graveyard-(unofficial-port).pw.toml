@@ -1,0 +1,12 @@
+name = "The Graveyard (Unofficial Port)"
+filename = "graveyard-2.6.2 NeoForge 1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hEydzhit/versions/3fmcJgpp/graveyard-2.6.2%20NeoForge%201.21.1.jar"
+hash-format = "sha512"
+hash = "c4e7cf2b531ccf04dca104c6bffe68d6c107138bb9b797dcc61b370842d83b5ac5045de19bd1b22a8ebcbc0e26282735611af4f2fd6e56c6206d7d8870e9500a"
+
+[update.modrinth]
+mod-id = "hEydzhit"
+version = "3fmcJgpp"

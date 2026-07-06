@@ -1,0 +1,12 @@
+name = "Lunar"
+filename = "Lunar-neoforge-1.21.1-0.2.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PwhlJMsW/versions/MPStHxcE/Lunar-neoforge-1.21.1-0.2.8.jar"
+hash-format = "sha512"
+hash = "fba17944134805ff5e54832141d529d65142743f0c2e4d73ea9e24675d983e4b54fdd80b2428fa90d74a86d5ba2cc1ce2312c7ac265d272caf466064b515562c"
+
+[update.modrinth]
+mod-id = "PwhlJMsW"
+version = "MPStHxcE"

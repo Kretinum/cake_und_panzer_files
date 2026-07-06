@@ -1,0 +1,7 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"tacz:modern_kinetic_gun","components":{"minecraft:custom_data":{"GunId":"tacz:m107","GunFireMode":"SEMI","GunCurrentAmmoCount":10,"HasBulletInBarrel":1}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"tacz:attachment","components":{"minecraft:custom_data":{"AttachmentId":"tacz:ammo_mod_hp"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"tacz:modern_kinetic_gun","components":{"minecraft:custom_data":{"GunId":"tacz:aa12","GunFireMode":"SEMI","GunCurrentAmmoCount":8,"HasBulletInBarrel":1}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"tacz:modern_kinetic_gun","components":{"minecraft:custom_data":{"GunId":"maxstuff:excaliber","GunFireMode":"AUTO","GunCurrentAmmoCount":10,"HasBulletInBarrel":1}}},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
