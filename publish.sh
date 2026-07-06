@@ -49,10 +49,11 @@ echo "    tagged + released $NEW"
 # ship as ONE reliable Release download instead of ~60 jsDelivr files. The pre-launch script grabs
 # this and extracts it; packwiz then verifies-and-skips the same files (they stay in the index).
 echo "==> Building extras (overrides) zips..."
-for p in full basic; do
+for p in full basic server; do
   case "$p" in
-    full)  name="CAKE-Full-overrides.zip" ;;
-    basic) name="CAKE-Basic-overrides.zip" ;;
+    full)   name="CAKE-Full-overrides.zip" ;;
+    basic)  name="CAKE-Basic-overrides.zip" ;;
+    server) name="CAKE-Server-overrides.zip" ;;
   esac
   z="$REPO_DIR/$name"
   rm -f "$z"
