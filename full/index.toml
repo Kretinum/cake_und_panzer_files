@@ -2626,7 +2626,7 @@ hash = "9fecc54ae314ec1239dd54143e013b7d8ef4e6b7353fe1d157a1a5e760907407"
 
 [[files]]
 file = "kubejs/server_scripts/tacz_create_ammo.js"
-hash = "60d39ab339776900a7b15df313d497d84588d70630ee1fa2cef0347128d93023"
+hash = "734479ce59ee855c14ae626e710b923a49b481e887db32d6235241391c391908"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
