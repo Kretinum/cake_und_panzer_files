@@ -2065,6 +2065,10 @@ file = "config/yes_steve_model/custom/1_1miyu.ysm"
 hash = "c291713b96266e546165c888e1ef75efcceabbbb7f1b59f17e62b2438092a142"
 
 [[files]]
+file = "config/yes_steve_model/custom/Endfield_Rossi_v1.1.ysm"
+hash = "1fc6a630a16e69d043e0d1c6990abaa86ab73b80f93c565d1684e612f9b9fa91"
+
+[[files]]
 file = "config/yes_steve_model/custom/F-4EJ Kai.ysm"
 hash = "89ef5a649572d61e9ef3651f57edbdd474b1f6c3a20c5bccbe6ce012a45f6812"
 
@@ -2077,8 +2081,40 @@ file = "config/yes_steve_model/custom/J-20S.ysm"
 hash = "94325aa50e9e3aa364efadfacadd7590d9e8b2e1b4bef287e9c606ea4bc78002"
 
 [[files]]
+file = "config/yes_steve_model/custom/Touhou_Flandre_0.ysm"
+hash = "94982cd939e9a415ac3ff5d9afefc1cc7e9bae36f68e62602e5b8c32999d0112"
+
+[[files]]
+file = "config/yes_steve_model/custom/Touhou_Flandre_1.ysm"
+hash = "eac02390e2215782b3da2ee71da89269fd9ab1924db4ded694b8446e855f94e7"
+
+[[files]]
+file = "config/yes_steve_model/custom/Touhou_Flandre_2.ysm"
+hash = "c311a2431f19b754533a3f4e865471e1807d89190b8f42bd3400455aeaba5268"
+
+[[files]]
+file = "config/yes_steve_model/custom/Touhou_Flandre_20250411.ysm"
+hash = "796296b17de3b45c026377b9553c748bbceb64cd3379d978b55410b086597e77"
+
+[[files]]
+file = "config/yes_steve_model/custom/Touhou_Flandre_20250429.ysm"
+hash = "ee5857fa6a50d217147a715ad0c56b3ede165b02ae252f9454095abd742ea697"
+
+[[files]]
+file = "config/yes_steve_model/custom/Touhou_Flandre_3.ysm"
+hash = "f3d8574fbca370a4f00204ac4cf86eb5f4b7e8a17c09dddd16f343f32ce7811d"
+
+[[files]]
+file = "config/yes_steve_model/custom/Touhou_Flandre_4.ysm"
+hash = "748dd0196b2d8321b10625e748c0c51ad726c6f4f626c1d9970826f25149b643"
+
+[[files]]
 file = "config/yes_steve_model/custom/VOX噪轰引擎1.0.ysm"
 hash = "f9208fb39c0df338713303b0178e0213e389e0b0bd41597e3f6dc858435b6c5f"
+
+[[files]]
+file = "config/yes_steve_model/custom/blacklist.txt"
+hash = "ad8ab1abd7efc226127f6114d55bb0b7212f609d323743236591b326079a5905"
 
 [[files]]
 file = "config/yes_steve_model/custom/gr_lucia_max.ysm"
@@ -2099,6 +2135,26 @@ hash = "8524696160f038d06feedbb1dffd6fa6bf604f34a05d30be2875c3229835e261"
 [[files]]
 file = "config/yes_steve_model/custom/vocaloidno_tetoyo.ysm"
 hash = "5f6e9df287ce51b2bec488419b45faa14812b89300987d8cb238fe84a7c52b92"
+
+[[files]]
+file = "config/yes_steve_model/custom/碧蓝档案_小鸟游星野(一年级.ysm"
+hash = "2f9eb629bee6fcd23edd76badb1e038cd88f7d742002ea57bcb8df347c45642f"
+
+[[files]]
+file = "config/yes_steve_model/custom/碧蓝档案_小鸟游星野(临战.ysm"
+hash = "6c326efee925a44dd17c68defcc432dfdeca19bfaaac2d4f71527b3be02cab3b"
+
+[[files]]
+file = "config/yes_steve_model/custom/碧蓝档案_小鸟游星野(二年级.ysm"
+hash = "3141b249ec42a40a2ddad6ff861803156f46fba0282bf8386ad2decc24665b37"
+
+[[files]]
+file = "config/yes_steve_model/custom/碧蓝档案_小鸟游星野(泳装.ysm"
+hash = "7e51d04fcd290371d50ad07978d5f55d35318f7bc8d101f7051c11934185e3ab"
+
+[[files]]
+file = "config/yes_steve_model/custom/碧蓝档案_小鸟游星野.ysm"
+hash = "054b235058a6a43e87cb8c57e6119c8f98a30cc8939033f2b659c4c2afe59fa6"
 
 [[files]]
 file = "config/yes_steve_model/custom/碧蓝航线_KMS_Roon.ysm"
