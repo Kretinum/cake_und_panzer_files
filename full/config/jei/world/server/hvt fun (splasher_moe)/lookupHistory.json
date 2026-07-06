@@ -1,8 +1,0 @@
-[
-  {"version":1},
-  {"ingredient":{"id":"tacz:modern_kinetic_gun","components":{"minecraft:custom_data":{"GunId":"maxstuff:m82a2","GunFireMode":"SEMI","GunCurrentAmmoCount":10,"HasBulletInBarrel":1}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"tacz:ammo","components":{"minecraft:max_stack_size":60,"minecraft:custom_data":{"AmmoId":"ea:792x33"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"born_in_chaos_v1:baby_skeleton_spawn_egg"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"tacz:ammo","components":{"minecraft:max_stack_size":60,"minecraft:custom_data":{"AmmoId":"tacz:762x39"}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"tacz:ammo","components":{"minecraft:max_stack_size":60,"minecraft:custom_data":{"AmmoId":"tacz:545x39"}}},"type":"item_stack","bookmarkType":"INGREDIENT"}
-]
