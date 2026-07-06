@@ -41,7 +41,7 @@ ServerEvents.recipes(event => {
     event.custom({
       type: "tacz:gun_smith_table_crafting",
       materials: [ { item: { item: "tacz_c:annealed_brass_cylinder" }, count: 1 } ],
-      result: { type: "custom", group: "tacz:lc_specialized", item: { id: cas, count: 5 } }
+      result: { type: "custom", group: "tacz:lc_specialized", item: { id: cas, count: 1 } }
     }).id("tacz_create_ammo:casing_" + key)
 
     // 2) sequenced assembly: unprepared -> deploy primer -> deploy gunpowder -> prepared
@@ -85,12 +85,12 @@ ServerEvents.recipes(event => {
   event.custom({
     type: "tacz:gun_smith_table_crafting",
     materials: [ { item: { tag: "tacz_c:metal_nuggets" }, count: 1 } ],
-    result: { type: "custom", group: "tacz:lc_specialized", item: { id: "tacz_c:bullet_core", count: 20 } }
+    result: { type: "custom", group: "tacz:lc_specialized", item: { id: "tacz_c:bullet_core", count: 1 } }
   }).id("tacz_create_ammo:core_small")
   event.custom({
     type: "tacz:gun_smith_table_crafting",
     materials: [ { item: { tag: "tacz_c:metal_nuggets" }, count: 1 } ],
-    result: { type: "custom", group: "tacz:lc_specialized", item: { id: "tacz_c:large_bullet_core", count: 10 } }
+    result: { type: "custom", group: "tacz:lc_specialized", item: { id: "tacz_c:large_bullet_core", count: 1 } }
   }).id("tacz_create_ammo:core_large")
 
   // Bullet table makes ONLY casings: remove every native full-ammo recipe (ids are tacz:ammo/<caliber>).
