@@ -1581,22 +1581,6 @@ file = "config/jei/recipe-category-sort-order.ini"
 hash = "4eb0979c09d870693feed3c8504e8142255e3eddd07e6f67bf613deaaceb1e4a"
 
 [[files]]
-file = "config/jei/world/local/New World (1)/lookupHistory.json"
-hash = "c40a48dfefeface266b0d27a946833d40e98bec514441fb07fb6f2007417d20e"
-
-[[files]]
-file = "config/jei/world/local/New World (4)/lookupHistory.json"
-hash = "6172e243aac4b695a5ab542158c68232d0861533c224eb0a9e5d45767d004dae"
-
-[[files]]
-file = "config/jei/world/local/New World/lookupHistory.json"
-hash = "f9b90f8084928354cc713919fe4585caeb31317c35c72f5bf7c7cc56acea3035"
-
-[[files]]
-file = "config/jei/world/server/hvt fun (splasher_moe)/lookupHistory.json"
-hash = "8e4ef7d49047a49643f204ee4f1708542ee657c974c65221dcc9c52b246bf633"
-
-[[files]]
 file = "config/konkrete/locals/de_de.local"
 hash = "79a34cfd15c2d9c06498dc221be79279507d9b57666cd44f8d2c2cf95d3582ef"
 
