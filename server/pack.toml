@@ -1,0 +1,13 @@
+name = "/c/AKE und PANZER - Server"
+author = "Kretinum"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "2b2de2a23de4c687a072ea9db85a1230d155365a234b3050d0f39c9d559db5cf"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.234"

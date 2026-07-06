@@ -1,0 +1,12 @@
+name = "Luminous Dust"
+filename = "luminousdust-0.2.2-beta.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CJpoCIit/versions/tQ7xtAvH/luminousdust-0.2.2-beta.jar"
+hash-format = "sha512"
+hash = "e2e4521e5dca224819742690920a26cbb4baaff2223a1f25ac701d4e4bc916277a4660b35d3e46fd1675dcf2e504a45f53e5d01954f49f1354c5abecebe79c75"
+
+[update.modrinth]
+mod-id = "CJpoCIit"
+version = "tQ7xtAvH"

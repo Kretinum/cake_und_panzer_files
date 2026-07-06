@@ -1,0 +1,41 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Kretinum",
+      "uniqueId": "55ca9c5a-3541-4671-ae38-1f1e517e041d"
+    },
+    "time": 1783158379307,
+    "type": "Heap dump summary",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/LayaupxgNF"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Kretinum",
+      "uniqueId": "55ca9c5a-3541-4671-ae38-1f1e517e041d"
+    },
+    "time": 1783158125951,
+    "type": "Heap dump summary",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/9wTag4pDjl"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Kretinum",
+      "uniqueId": "55ca9c5a-3541-4671-ae38-1f1e517e041d"
+    },
+    "time": 1783157535441,
+    "type": "Heap dump summary",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/NoOYLUWsiH"
+    }
+  }
+]

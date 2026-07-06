@@ -1,0 +1,12 @@
+name = "Simple Spears"
+filename = "spears_neoforge-1.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oGuTJMSE/versions/xF3VicCN/spears_neoforge-1.7.jar"
+hash-format = "sha512"
+hash = "f74899bd1b93b53e8f7650f1008e7d2f5c47d43d657ed9796ef18573910811288074f5e5c5fc4dc1736317ea1e76abea53f10b1eb366169b5cdea82b4b9c81fc"
+
+[update.modrinth]
+mod-id = "oGuTJMSE"
+version = "xF3VicCN"
