@@ -80,6 +80,8 @@ ServerEvents.recipes(event => {
   })
   console.info("[tacz_create_ammo] added " + made + " Create-6 caliber chains (raw JSON)")
 
-  // Force Create-only: remove the gun-smith-table ammo crafting.
-  event.remove({ type: "tacz:gun_smith_table", output: "tacz:ammo" })
+  // Bullet table makes ONLY casings: remove every native full-ammo recipe (ids are tacz:ammo/<caliber>).
+  // Full ammo is craftable exclusively via the Create chain above. Casing recipes (tacz_create_ammo:casing_*)
+  // and guns/attachments are untouched.
+  event.remove({ id: /^tacz:ammo\/.*/ })
 })
