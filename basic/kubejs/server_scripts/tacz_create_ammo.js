@@ -41,7 +41,7 @@ ServerEvents.recipes(event => {
     event.custom({
       type: "tacz:gun_smith_table_crafting",
       materials: [ { item: { item: "tacz_c:annealed_brass_cylinder" }, count: 1 } ],
-      result: { type: "item", group: "lc_specialized", id: cas, count: 5 }
+      result: { type: "custom", group: "tacz:lc_specialized", item: { id: cas, count: 5 } }
     }).id("tacz_create_ammo:casing_" + key)
 
     // 2) sequenced assembly: unprepared -> deploy primer -> deploy gunpowder -> prepared
@@ -79,6 +79,19 @@ ServerEvents.recipes(event => {
     catch (e) { console.error("[tacz_create_ammo] failed for " + id + ": " + e) }
   })
   console.info("[tacz_create_ammo] added " + made + " Create-6 caliber chains (raw JSON)")
+
+  // Bullet cores at the table too — small + large both saw-cut from tacz_c:metal_nuggets (they overlap
+  // on the saw). Craft one at the table to use as the saw's output filter. Saw cutting recipes stay for bulk.
+  event.custom({
+    type: "tacz:gun_smith_table_crafting",
+    materials: [ { item: { tag: "tacz_c:metal_nuggets" }, count: 1 } ],
+    result: { type: "custom", group: "tacz:lc_specialized", item: { id: "tacz_c:bullet_core", count: 20 } }
+  }).id("tacz_create_ammo:core_small")
+  event.custom({
+    type: "tacz:gun_smith_table_crafting",
+    materials: [ { item: { tag: "tacz_c:metal_nuggets" }, count: 1 } ],
+    result: { type: "custom", group: "tacz:lc_specialized", item: { id: "tacz_c:large_bullet_core", count: 10 } }
+  }).id("tacz_create_ammo:core_large")
 
   // Bullet table makes ONLY casings: remove every native full-ammo recipe (ids are tacz:ammo/<caliber>).
   // Full ammo is craftable exclusively via the Create chain above. Casing recipes (tacz_create_ammo:casing_*)
