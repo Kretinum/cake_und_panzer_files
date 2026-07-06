@@ -1,0 +1,8 @@
+name = "alltheleaks"
+filename = "alltheleaks-1.1.9+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Kretinum/cake_und_panzer_files/releases/download/loose-jars/alltheleaks-1.1.9%2B1.21.1-neoforge.jar"
+hash-format = "sha256"
+hash = "94c8e671c99ad3b098678cc1947594f7723e294c7692a4d0f9126a4d85a756e6"

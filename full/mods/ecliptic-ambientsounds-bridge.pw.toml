@@ -1,0 +1,8 @@
+name = "ecliptic-ambientsounds-bridge"
+filename = "ecliptic-ambientsounds-bridge-1.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Kretinum/cake_und_panzer_files/releases/download/loose-jars/ecliptic-ambientsounds-bridge-1.0.jar"
+hash-format = "sha256"
+hash = "55e610d2bfb612bb5526e856c8382e1cfed201301becc7f00abb59030f48dce6"

@@ -1,0 +1,8 @@
+name = "tacz_c"
+filename = "tacz_c-1.0.2+neoforge.1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Kretinum/cake_und_panzer_files/releases/download/loose-jars/tacz_c-1.0.2%2Bneoforge.1.21.1.jar"
+hash-format = "sha256"
+hash = "8a73ff1df9fa3f7f84ba69b39753b0d42dbfc3aee3538e1d7e8c3e5459164b85"

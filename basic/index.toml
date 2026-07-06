@@ -2140,8 +2140,9 @@ hash = "e53dd29f928db8dea3904d94a257cf4aeca4adf568756c448a9b60b35957af8e"
 metafile = true
 
 [[files]]
-file = "mods/alltheleaks-1.1.9+1.21.1-neoforge.jar"
-hash = "94c8e671c99ad3b098678cc1947594f7723e294c7692a4d0f9126a4d85a756e6"
+file = "mods/alltheleaks.pw.toml"
+hash = "603100792bddc83201e1a7fdc8055298741d29f4f95569f0ae08a26007994bf9"
+metafile = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -2164,8 +2165,9 @@ hash = "71c1ec0475b3cd964b46327271120b64202ea61ca7ee38aab423d1760ca28474"
 metafile = true
 
 [[files]]
-file = "mods/audiofix-1.0.0.jar"
-hash = "fdb6561db1bee56026f88dc0a7383312156332fd093d78fbc66ba1cbf7143891"
+file = "mods/audiofix.pw.toml"
+hash = "6a32cc234b645ce9104d7dc5565a41454580009c48187b325a134ac2e3e2857e"
+metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
@@ -2613,8 +2615,9 @@ hash = "37c28877a9caa79e7c000559c3c4b88dc98daf44a835e04061aee1a82d708c9c"
 metafile = true
 
 [[files]]
-file = "mods/gunsmithlib-neoforge-1.21.1-tacz1.1.8-6.0.3.jar"
-hash = "efe50cab90043285fa1f6735cda4b742345871b6b15713e6581fa8df5420c8bb"
+file = "mods/gunsmithlib.pw.toml"
+hash = "0d1f21ff57102bb74285e5c89967357f827a1beadbb63c4c675dfea698a51484"
+metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
@@ -3037,13 +3040,14 @@ hash = "1e7fe2193a69e0fb17647058cdca7556a5dda434b074cc4c042de09442092877"
 metafile = true
 
 [[files]]
-file = "mods/tacz-pack-upgrader.pw.toml"
-hash = "02eb81c9ba09ae9c379d3e0453e2f3157cf21324668293110b2f2fab17f7f885"
+file = "mods/tacz-c.pw.toml"
+hash = "34fcc40277ec9637c3159cd291012875e1f9aa616acb229e8f475ba936bb129b"
 metafile = true
 
 [[files]]
-file = "mods/tacz_c-1.0.2+neoforge.1.21.1.jar"
-hash = "8a73ff1df9fa3f7f84ba69b39753b0d42dbfc3aee3538e1d7e8c3e5459164b85"
+file = "mods/tacz-pack-upgrader.pw.toml"
+hash = "02eb81c9ba09ae9c379d3e0453e2f3157cf21324668293110b2f2fab17f7f885"
+metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
@@ -3071,8 +3075,9 @@ hash = "12ac543a76980831c7567fef06f8a3fb364f2cf13099a2448c08c6acb56e6148"
 metafile = true
 
 [[files]]
-file = "mods/tracks-neoforge-1.21.1-1.0.1.jar"
-hash = "b126b2522a129c13ebec6491b8602726bad9a3df201cf906468ba583796125c8"
+file = "mods/tracks.pw.toml"
+hash = "96244025bd39245bdcec7608721f3047b7af5997530ef752227640b03be57faf"
+metafile = true
 
 [[files]]
 file = "mods/treechop.pw.toml"
