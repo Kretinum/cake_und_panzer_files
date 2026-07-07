@@ -48,6 +48,11 @@ echo "    tagged + released $NEW"
 # Loose overrides (settings, font, shaders, configs — incl. special-char names jsDelivr chokes on)
 # ship as ONE reliable Release download instead of ~60 jsDelivr files. The pre-launch script grabs
 # this and extracts it; packwiz then verifies-and-skips the same files (they stay in the index).
+# Files written by in-game settings screens — user territory. We do NOT ship these in the
+# overwrite zip, so a friend's video/shader/DH/camera tweaks survive updates. packwiz still
+# delivers them ONCE on a fresh install and (verified) preserves user edits on later syncs.
+PREF_FILES="options.txt config/sodium-options.json config/iris.properties config/DistantHorizons.toml config/shouldersurfing-client.toml config/yes_steve_model-client.toml"
+
 echo "==> Building extras (overrides) zips..."
 for p in full basic server; do
   case "$p" in
@@ -60,6 +65,10 @@ for p in full basic server; do
   ( cd "$p" && zip -r -q "$z" . \
       -x 'pack.toml' -x 'index.toml' -x '.packwizignore' \
       -x '*.pw.toml' -x '*.DS_Store' -x '*/.DS_Store' -x 'mods/*' )
+  # client packs: strip the user-settings files out of the overwrite zip (server keeps all its configs)
+  if [ "$p" != "server" ]; then
+    zip -d -q "$z" $PREF_FILES >/dev/null 2>&1 || true
+  fi
   gh release upload "$NEW" "$z" --repo "$GH_REPO" --clobber >/dev/null 2>&1
   echo "    attached $name ($(du -h "$z" | cut -f1 | tr -d ' '))"
   rm -f "$z"
