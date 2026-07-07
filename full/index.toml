@@ -2453,6 +2453,14 @@ file = "kubejs/assets/kubejs/models/item/casing_ea_9x39.json"
 hash = "cefaa60fe6276839ae04d7a3b6f47fd7fbf255f5b4e0b822ecfc0c42fc875640"
 
 [[files]]
+file = "kubejs/assets/kubejs/models/item/casing_f4ej_kai_m56a3.json"
+hash = "60ad7c036a01a43d9de2e6abee5fbfd6feef23d8db7522616486838e1ef8312e"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/casing_f4ej_kai_mk32heat.json"
+hash = "60ad7c036a01a43d9de2e6abee5fbfd6feef23d8db7522616486838e1ef8312e"
+
+[[files]]
 file = "kubejs/assets/kubejs/models/item/casing_full_apdf_0950x38.json"
 hash = "b22c3738faeaccee135bdef78310a2dd5b9d160933ad6bb536e560111d7c16a7"
 
@@ -2653,6 +2661,18 @@ file = "kubejs/assets/kubejs/models/item/casing_full_ea_9x39.json"
 hash = "41199387891e52224ee2d8b701b2d8435270dcf9ea0c993f652bed5e8e82744a"
 
 [[files]]
+file = "kubejs/assets/kubejs/models/item/casing_full_f4ej_kai_m56a3.json"
+hash = "3bc2ad16ad18fd9791a65decb1d54fc3165f889c1af847f90de7ff15215e78d7"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/casing_full_f4ej_kai_mk32heat.json"
+hash = "3bc2ad16ad18fd9791a65decb1d54fc3165f889c1af847f90de7ff15215e78d7"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/casing_full_j10b_23_2.json"
+hash = "3bc2ad16ad18fd9791a65decb1d54fc3165f889c1af847f90de7ff15215e78d7"
+
+[[files]]
 file = "kubejs/assets/kubejs/models/item/casing_full_maxstuff_12g_db.json"
 hash = "3418a4d3f918467f17afa72f41fff0738f8701ba9f80aa678e6ce82673c05f95"
 
@@ -2675,6 +2695,10 @@ hash = "d0103a0e7ed640357bfcd59bd1b07f643013bd08588a62b60975d955fe87055f"
 [[files]]
 file = "kubejs/assets/kubejs/models/item/casing_full_maxstuff_nails.json"
 hash = "df0e0c6cc89fef975c146ff0504a5251ac293f54c2327f7c26325c1da43a253a"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/casing_j10b_23_2.json"
+hash = "60ad7c036a01a43d9de2e6abee5fbfd6feef23d8db7522616486838e1ef8312e"
 
 [[files]]
 file = "kubejs/assets/kubejs/models/item/casing_maxstuff_12g_db.json"
@@ -2766,7 +2790,7 @@ hash = "9fecc54ae314ec1239dd54143e013b7d8ef4e6b7353fe1d157a1a5e760907407"
 
 [[files]]
 file = "kubejs/server_scripts/tacz_create_ammo.js"
-hash = "72322e68a867b08bf93dd55b315de5bd9cab3296e066544287db361dcea0b168"
+hash = "7a051526b3e0c47a244039635478a7b6db165e273ef3496b88046016f52f7b98"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
@@ -2774,7 +2798,7 @@ hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
 
 [[files]]
 file = "kubejs/startup_scripts/tacz_casings.js"
-hash = "4e6b31044226e30ef3e5f272a17512660b9360748c156bf6d4697777ecdab99b"
+hash = "40157a447314d8f4710597b4fb1c5fa1db0a47c053dadbe06243a7c0aa64d0b4"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -2823,7 +2847,7 @@ metafile = true
 
 [[files]]
 file = "mods/audiofix.pw.toml"
-hash = "6a32cc234b645ce9104d7dc5565a41454580009c48187b325a134ac2e3e2857e"
+hash = "9dae7b11669c1f170fcf31ce9938c89681888586b1b852cb1c0cbe25518a41ce"
 metafile = true
 
 [[files]]

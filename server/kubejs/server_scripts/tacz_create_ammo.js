@@ -20,7 +20,7 @@ ServerEvents.recipes(event => {
     "ea:602x41", "ea:65creedmoor", "ea:68tvcm", "ea:6arc", "ea:75fk", "ea:792x33", "ea:86blk", "ea:950jdj",
     "ea:9x18", "ea:9x21", "ea:9x39",
     "apdf:0950x38", "apdf:1163x39",
-    "maxstuff:12g_fl", "maxstuff:can_blanks", "maxstuff:laser", "maxstuff:nails", "maxstuff:bannana", "maxstuff:12g_db"
+    "maxstuff:12g_fl", "maxstuff:can_blanks", "maxstuff:laser", "maxstuff:nails", "maxstuff:bannana", "maxstuff:12g_db", "f4ej_kai:m56a3", "f4ej_kai:mk32heat", "j10b:23_2"
   ]
 
   function build(id) {
@@ -69,7 +69,7 @@ ServerEvents.recipes(event => {
     event.custom({
       type: "create:deploying",
       ingredients: [ { item: casf }, { item: "tacz_c:bullet" } ],
-      results: [ { id: "tacz:ammo", count: 8, components: { "minecraft:custom_data": { AmmoId: id } } } ]
+      results: [ { id: "tacz:ammo", count: (id == "f4ej_kai:mk32heat" ? 16 : 8), components: { "minecraft:custom_data": { AmmoId: id } } } ]
     }).id("tacz_create_ammo:" + key)
   }
 
@@ -97,4 +97,8 @@ ServerEvents.recipes(event => {
   // Full ammo is craftable exclusively via the Create chain above. Casing recipes (tacz_create_ammo:casing_*)
   // and guns/attachments are untouched.
   event.remove({ id: /^tacz:ammo\/.*/ })
+  // gun-pack ammo moved to the Create chain -> remove their bullet-table recipes
+  event.remove({ id: "f4ej_kai:ammo/m56a3" })
+  event.remove({ id: "f4ej_kai:ammo/mk32" })
+  event.remove({ id: "j10b:ammo/23_2" })
 })

@@ -51,7 +51,7 @@ echo "    tagged + released $NEW"
 # Files written by in-game settings screens — user territory. We do NOT ship these in the
 # overwrite zip, so a friend's video/shader/DH/camera tweaks survive updates. packwiz still
 # delivers them ONCE on a fresh install and (verified) preserves user edits on later syncs.
-PREF_FILES="options.txt config/sodium-options.json config/iris.properties config/DistantHorizons.toml config/shouldersurfing-client.toml config/yes_steve_model-client.toml"
+PREF_FILES="options.txt config/sodium-options.json config/iris.properties config/DistantHorizons.toml config/shouldersurfing-client.toml config/yes_steve_model-client.toml config/luminousdust-client.toml"
 
 echo "==> Building extras (overrides) zips..."
 for p in full basic server; do
