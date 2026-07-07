@@ -1253,12 +1253,72 @@ file = "config/fancymenu/assets/images/cake-und-panzer-logo1.png"
 hash = "5ed7738019b45d95700ac5d6a469e419c697dd6d9a68cc2faf082d3e6c228fff"
 
 [[files]]
-file = "config/fancymenu/assets/menu_music/enter_enter_mission.ogg"
-hash = "68b4185137d14eedb4c03901e3bf4730e9f49a959ece911748fd20f0ce412725"
+file = "config/fancymenu/assets/images/join_card.png"
+hash = "2828941116b864435ca0641127ffc546f0398d8a9a638a522606bb95abc099fc"
+
+[[files]]
+file = "config/fancymenu/assets/images/join_card_hover.png"
+hash = "7a794d9973d97c2b2b1874cf1b0cbf67973d2743812c3b7f8b78696021d9cee5"
+
+[[files]]
+file = "config/fancymenu/assets/menu_music/AYV6zCduTA0.webm"
+hash = "91d839433adc0daf93e979dd2850652a14aa742c41375b639f48f6876dea795e"
+
+[[files]]
+file = "config/fancymenu/assets/menu_music/Drum_Bun_-_Romanian_Military_March_Instrumental_Version.webm"
+hash = "d412ce26e270bcd24842f220412c6dd452fec292ad0162f9e62bf29dbc04765c"
+
+[[files]]
+file = "config/fancymenu/assets/menu_music/GIRLS_und_PANZER_Selection_University_Team_When_Johnny_comes_marching_home.webm"
+hash = "706df378681d6558f7ac9be3cac433eb1601d467911304d749d19d4a80906c5e"
+
+[[files]]
+file = "config/fancymenu/assets/menu_music/Girls_Und_Panzer_OST_-_Funiculi_Funicula.webm"
+hash = "845afe716bdb2cef53f773da4444976877cc23d90498fb4565e80ee2633f1d47"
+
+[[files]]
+file = "config/fancymenu/assets/menu_music/Katyusha_Instrumental_GuP_Version.webm"
+hash = "fbbb6371e711f2d3bf6228640d4119f955b0222910a4aa46a0568eb2b1d1f7f7"
+
+[[files]]
+file = "config/fancymenu/assets/menu_music/La_Chanson_de_l_oignon.webm"
+hash = "58dd124095e5c33b14514ff751c6023cf774e58654b2c56f043ee79c79d5bb28"
+
+[[files]]
+file = "config/fancymenu/assets/menu_music/british_grenadiers.ogg"
+hash = "1eb1fcf8e6a96cccfd965c5aa745458da7ded235de74fcbd10df846c812e4f8b"
+
+[[files]]
+file = "config/fancymenu/assets/menu_music/chanson_oignon.ogg"
+hash = "54d6964b7892910a3ac396e7cc1c1d019251c51955a6953318c37e42fecf1cf6"
+
+[[files]]
+file = "config/fancymenu/assets/menu_music/drum_bun.ogg"
+hash = "8bc4df0de58475e91fe240a761bf7a0a8911e216b2e5a3fca4f6dc898a89d654"
+
+[[files]]
+file = "config/fancymenu/assets/menu_music/erika.ogg"
+hash = "3e9edaad890bdbf604434f6caf52dbab1ec50927a56bc9f192dc08c064a4732d"
 
 [[files]]
 file = "config/fancymenu/assets/menu_music/finland.ogg"
 hash = "9697c6a63d7551b031425e7c126947bf2fa3cfa750179df200f634fe6c1a4c5b"
+
+[[files]]
+file = "config/fancymenu/assets/menu_music/funiculi_funicula.ogg"
+hash = "c6a6a79154b78f67dfcb03095f02616f3d6d11f4db20092906c1940f4c4314c2"
+
+[[files]]
+file = "config/fancymenu/assets/menu_music/katyusha.ogg"
+hash = "38185795517e2bba153a3ce6cc994fc90e79f0acdaf2c9d8790b4c3fa945e9ab"
+
+[[files]]
+file = "config/fancymenu/assets/menu_music/tWZ0T96wcaQ.webm"
+hash = "b1246d4d367fd0763ad4e2d69948ac5ebb303e0227246e91ae6ca4f12270075b"
+
+[[files]]
+file = "config/fancymenu/assets/menu_music/when_johnny.ogg"
+hash = "85fb8dee57e2069a5a360271af7218414af6dca74565f40cd80035757761cf5d"
 
 [[files]]
 file = "config/fancymenu/assets/splashes.txt"
@@ -1278,7 +1338,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/cup_menu_layout.txt"
-hash = "cb86e2d588c526a0d28757ced733cdeee1f14d28a308daaf18a2ad3766316e9f"
+hash = "1063ccc6bb36a06bdf18e53124edc79b76aa33c05737569bc0b3b905c57aae57"
 
 [[files]]
 file = "config/fancymenu/customization/cup_menu_layout.txt.bak"
@@ -1294,7 +1354,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "6ff9866dcaa2ba43ed40c5f8ccd7ac82c1bce348aba76477155ceacb6cba26cf"
+hash = "c44813dbf4b58e5c7af55572bba8cc9c57d9513f512c8d7fdc6f771827564c87"
 
 [[files]]
 file = "config/fancymenu/options.txt.bak"
@@ -1303,6 +1363,34 @@ hash = "9651d653a4c5e9d1c2464e3d17f3ecb7852c7bc0ad1f19180849deb192ad07a4"
 [[files]]
 file = "config/fancymenu/options.txt.bak2"
 hash = "1dd1550a8495f3d0c1519ebe74fb5330a675f3cbbb558522fa18838d395751d0"
+
+[[files]]
+file = "config/fancymenu/panoramas/custom/panorama/panorama_0.png"
+hash = "55ced22b879a7f63a98352daf13e5a6a41a6cc3bbb51b440ccbf6f76eeccd848"
+
+[[files]]
+file = "config/fancymenu/panoramas/custom/panorama/panorama_1.png"
+hash = "8385f98e84b4309ae027dd098d5cc018cb098358cbf6f09219f1f4a1652ab1ef"
+
+[[files]]
+file = "config/fancymenu/panoramas/custom/panorama/panorama_2.png"
+hash = "ff975d23a3cb9353327abcb92263c379c2d90881f69e9c4b49836a5954cccedb"
+
+[[files]]
+file = "config/fancymenu/panoramas/custom/panorama/panorama_3.png"
+hash = "ee7be06a6b0688770a593e3bc0bff9ffbc6fbdc369b45c1313e10aeaebd3a32a"
+
+[[files]]
+file = "config/fancymenu/panoramas/custom/panorama/panorama_4.png"
+hash = "cd1c04d682f0e5372e7f75fd9c49e2a10ad302b0bfa912c58f4b9e460f916de6"
+
+[[files]]
+file = "config/fancymenu/panoramas/custom/panorama/panorama_5.png"
+hash = "c6653633588b3473064e5ff4f7cc601c4e7a81861c9377741cd143169d33f041"
+
+[[files]]
+file = "config/fancymenu/panoramas/custom/properties.txt"
+hash = "354f836d5b52ad78d238fe4d6f51163be105f3795935928806ece059f3bb9197"
 
 [[files]]
 file = "config/fancymenu/panoramas/default.zip"
