@@ -905,10 +905,6 @@ file = "config/chefsdelight-common.toml"
 hash = "348bf9f89d3dc287ab71039f9151eef027163eb4b1a0c1016ef0ed7248dfb665"
 
 [[files]]
-file = "config/chunky/config.json"
-hash = "c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8"
-
-[[files]]
 file = "config/citadel-common.toml"
 hash = "95d2d649bb8fbc282b539ae01db3e2a37b3c68aa998a1e7ce60fa8732748e1f7"
 
