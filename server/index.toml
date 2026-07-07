@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "564c80e178c4b23697dd2b817897f5db0632ca0363492249d8857aafb4514c7f"
+
+[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -2644,11 +2648,6 @@ hash = "e8dfd9adf0f5653c6797b0f2d269fd2427ecdf04fc51fb9716ddf3b69f334c18"
 metafile = true
 
 [[files]]
-file = "mods/chunky.pw.toml"
-hash = "a8f576f5bdc4947751eca5934346347ecb3f6d17e82bd5ee95568b8ae534bf2c"
-metafile = true
-
-[[files]]
 file = "mods/citadel-(1.21.1-port).pw.toml"
 hash = "bffa06db7aa84a22805ea26331168d12a367f8ca8de81d647ced182bd6bd0fa2"
 metafile = true
@@ -2861,6 +2860,11 @@ metafile = true
 [[files]]
 file = "mods/delight-lib.pw.toml"
 hash = "4b85133be149ba50a76fedae32fdde7801254ce3d97dc31de2387c3aa52d902e"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "0dfcf2537b8eb12fb8f8532f351e5eba2e7bd9807c9986a00d63a8975a63f433"
 metafile = true
 
 [[files]]
