@@ -1717,10 +1717,6 @@ file = "config/lootr-common.toml"
 hash = "2efbd58d0330a2eb357c51c33a4346bce57ff8f4c9226660d3bf1aa549eead4b"
 
 [[files]]
-file = "config/luminousdust-client.toml"
-hash = "590243fc8510b95bda5ff0985d251d76cdaece232636f7866fa389c13f827907"
-
-[[files]]
 file = "config/lunar-common.toml"
 hash = "5f8de5aaaf1cdcda3010f0f9779e4561cb872b1d17c11b35d966ad5ac833f84c"
 
@@ -3113,11 +3109,6 @@ metafile = true
 [[files]]
 file = "mods/create-tfmg.pw.toml"
 hash = "3f94a1182951fd0af6579264a908e0838930d6a96ca71a88ba7acb61282d6fd1"
-metafile = true
-
-[[files]]
-file = "mods/create-threaded-trains.pw.toml"
-hash = "b77f0460767fc6f9514bbbc9c29a36e8efe54eb312acdaa4dbfa5162ddc14129"
 metafile = true
 
 [[files]]

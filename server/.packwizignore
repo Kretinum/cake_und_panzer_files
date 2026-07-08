@@ -3,3 +3,4 @@
 config/jei/world
 config/jei/world/**
 *.log
+config/luminousdust-client.toml
