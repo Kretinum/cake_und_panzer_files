@@ -3082,7 +3082,7 @@ metafile = true
 
 [[files]]
 file = "tacz/create-armorer.pw.toml"
-hash = "6491ff02cd2cdbddbfc7828f6659736e8bbc31d3c4be51bf21bd2dfcbc46fad2"
+hash = "2f44149edead2444e8cd28ad40104e12f25bde2b787acb36d549c18f637dca70"
 metafile = true
 
 [[files]]
