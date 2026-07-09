@@ -1,0 +1,8 @@
+name = "Ice and Fire"
+filename = "iceandfire-2.0-beta.17.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Kretinum/cake_und_panzer_files/releases/download/loose-jars/iceandfire-2.0-beta.17.jar"
+hash-format = "sha256"
+hash = "ee52349445615417e69ab64cf15dbb96b9332a9117225119d281695c5f8d90f0"

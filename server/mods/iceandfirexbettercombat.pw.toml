@@ -1,0 +1,8 @@
+name = "Ice and Fire x Better Combat"
+filename = "iceandfirexbettercombat-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Kretinum/cake_und_panzer_files/releases/download/loose-jars/iceandfirexbettercombat-1.21.1.jar"
+hash-format = "sha256"
+hash = "50183b42a7116f73a7b6486c80c2cd4ad8f584ea1569aef079b0e16bd6dbc4e3"

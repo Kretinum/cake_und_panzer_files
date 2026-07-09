@@ -1565,6 +1565,10 @@ file = "config/gunsmithlib-startup.toml"
 hash = "80743f1814d6c093c212d2228888fcdbccaeb4d8c20c2edb0562b9c93ba78f1b"
 
 [[files]]
+file = "config/healthbars-client.toml"
+hash = "413e259a61a6dfacca05645e357af740560fdf3033e46d495b91010171613eaf"
+
+[[files]]
 file = "config/herbalbrews-common.toml"
 hash = "600cadae6ca6656dd7199e85b0dd87074076b7e16878f3679adb84e44f02fcc7"
 
@@ -2894,6 +2898,16 @@ hash = "0d1f21ff57102bb74285e5c89967357f827a1beadbb63c4c675dfea698a51484"
 metafile = true
 
 [[files]]
+file = "mods/iceandfire.pw.toml"
+hash = "d026bc5eda789cbe19ddafd01f3524d53e9d0b45f395f4e5e3f492cd9668633b"
+metafile = true
+
+[[files]]
+file = "mods/iceandfirexbettercombat.pw.toml"
+hash = "3104b31be392e3d45b18209f333211ba1534adeda9929dc3b77841b90307991b"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "6c4654690083959eb9f95cf52c0d715b17434e5a9ef9873dd843599ac339b726"
 metafile = true
@@ -2936,6 +2950,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "598c96ceece7dd1ddb0cdf859c531a4f84cc2d89e5470a8c4067a9e16093d7bf"
+metafile = true
+
+[[files]]
+file = "mods/jupiter.pw.toml"
+hash = "3f44721c554a06b9e922c6102bed6402fed57d6d340de0299ee4237544724c48"
 metafile = true
 
 [[files]]
@@ -3146,6 +3165,11 @@ metafile = true
 [[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "1e14386d715566592657db40c029b3fcca8dc5819a20f51d6ad75c2def8a1e37"
+metafile = true
+
+[[files]]
+file = "mods/new-health-bars.pw.toml"
+hash = "2b71863edd2540d93517f6a0a40e6dd04a460039a3a8c385308c45ffc453a347"
 metafile = true
 
 [[files]]
@@ -3421,6 +3445,11 @@ metafile = true
 [[files]]
 file = "mods/twigs.pw.toml"
 hash = "3ade334168cde699f7bdcc9c786a4c86427a53512b255123f8d1d6fc46e629d5"
+metafile = true
+
+[[files]]
+file = "mods/uranus.pw.toml"
+hash = "c16ee91eeb20999c83deedbf93ce3787bb9bfefad56abd242d90a94dc0534ca0"
 metafile = true
 
 [[files]]
