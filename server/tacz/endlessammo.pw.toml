@@ -1,8 +1,0 @@
-name = "endlessammo"
-filename = "EndlessAmmo-2.0.zip"
-side = "both"
-
-[download]
-url = "https://github.com/Kretinum/cake_und_panzer_files/releases/download/gunpacks/EndlessAmmo-2.0.zip"
-hash-format = "sha256"
-hash = "c07945dbbf3bb6e7358bddc571ea4321e0384848305b15c39fff60a46f7fb22f"

@@ -1,8 +1,0 @@
-name = "maxstuff"
-filename = "Maxstuff-1.8.2.zip"
-side = "both"
-
-[download]
-url = "https://github.com/Kretinum/cake_und_panzer_files/releases/download/gunpacks/Maxstuff-1.8.2.zip"
-hash-format = "sha256"
-hash = "b2560fc85564d48ba4898c56b872f4a6cb7938eddfb296cd02be70bc146cf93b"

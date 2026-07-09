@@ -2257,198 +2257,6 @@ file = "kubejs/assets/kubejs/models/item/casing_apdf_1163x39.json"
 hash = "556405329f162b7c6e3bbb5f285d53b9f49700bdb4af311cbd29c059c4e39d4d"
 
 [[files]]
-file = "kubejs/assets/kubejs/models/item/casing_ea_10g.json"
-hash = "04a427e7d332b55c2eda10b18dde39c068d9ac9773d827c441a9ceed43059ea6"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_ea_10mm.json"
-hash = "b2971511f2af6cc62941204dbb55ad1c1463074c2a3cd3e622c0d4dacea70be8"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_ea_127x108.json"
-hash = "60ad7c036a01a43d9de2e6abee5fbfd6feef23d8db7522616486838e1ef8312e"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_ea_127x55.json"
-hash = "60ad7c036a01a43d9de2e6abee5fbfd6feef23d8db7522616486838e1ef8312e"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_ea_145x114.json"
-hash = "60ad7c036a01a43d9de2e6abee5fbfd6feef23d8db7522616486838e1ef8312e"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_ea_17hmr.json"
-hash = "a2654b001dbd7dc2baf4c73fd3eed86dc2a36d8463261b6ec9711da028ffc2e7"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_ea_20g.json"
-hash = "04a427e7d332b55c2eda10b18dde39c068d9ac9773d827c441a9ceed43059ea6"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_ea_20x102.json"
-hash = "60ad7c036a01a43d9de2e6abee5fbfd6feef23d8db7522616486838e1ef8312e"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_ea_22hornet.json"
-hash = "a2654b001dbd7dc2baf4c73fd3eed86dc2a36d8463261b6ec9711da028ffc2e7"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_ea_22lr.json"
-hash = "a2654b001dbd7dc2baf4c73fd3eed86dc2a36d8463261b6ec9711da028ffc2e7"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_ea_27kolibri.json"
-hash = "a2654b001dbd7dc2baf4c73fd3eed86dc2a36d8463261b6ec9711da028ffc2e7"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_ea_300blk.json"
-hash = "cefaa60fe6276839ae04d7a3b6f47fd7fbf255f5b4e0b822ecfc0c42fc875640"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_ea_300winmag.json"
-hash = "9ab2af02c53e988ffa5f347e33d030264209d216ad9d0ca2db788b6d30b6605c"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_ea_3030win.json"
-hash = "9ab2af02c53e988ffa5f347e33d030264209d216ad9d0ca2db788b6d30b6605c"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_ea_30mauser.json"
-hash = "4210c400a799bc1404bad60af4146f5803c3e17e0bd235677394abd5dbd60607"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_ea_32acp.json"
-hash = "d66e29f11413e8f42668c8901f2006dce23e617bae7f54bf97497a2cfaedfa69"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_ea_338arc.json"
-hash = "336d3cf64d779d3e2c157c2947c2239fa01c831647cfc9064a15bd8e3b32a453"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_ea_338norma.json"
-hash = "336d3cf64d779d3e2c157c2947c2239fa01c831647cfc9064a15bd8e3b32a453"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_ea_357sig.json"
-hash = "d199412017bee348000ed0a3ff9ec564c15d228508a1e912810e2ad7619fbb46"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_ea_366magnum.json"
-hash = "d199412017bee348000ed0a3ff9ec564c15d228508a1e912810e2ad7619fbb46"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_ea_366tkm.json"
-hash = "cefaa60fe6276839ae04d7a3b6f47fd7fbf255f5b4e0b822ecfc0c42fc875640"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_ea_380auto.json"
-hash = "d66e29f11413e8f42668c8901f2006dce23e617bae7f54bf97497a2cfaedfa69"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_ea_408cheytac.json"
-hash = "60ad7c036a01a43d9de2e6abee5fbfd6feef23d8db7522616486838e1ef8312e"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_ea_40sw.json"
-hash = "b2971511f2af6cc62941204dbb55ad1c1463074c2a3cd3e622c0d4dacea70be8"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_ea_410bore.json"
-hash = "04a427e7d332b55c2eda10b18dde39c068d9ac9773d827c441a9ceed43059ea6"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_ea_416barrett.json"
-hash = "60ad7c036a01a43d9de2e6abee5fbfd6feef23d8db7522616486838e1ef8312e"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_ea_44magnum.json"
-hash = "79052eb6b1482b70e4d50986a1bb640a901007db6265bb72043076cb94d8ba51"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_ea_44special.json"
-hash = "79052eb6b1482b70e4d50986a1bb640a901007db6265bb72043076cb94d8ba51"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_ea_454casull.json"
-hash = "79052eb6b1482b70e4d50986a1bb640a901007db6265bb72043076cb94d8ba51"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_ea_458hamr.json"
-hash = "556405329f162b7c6e3bbb5f285d53b9f49700bdb4af311cbd29c059c4e39d4d"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_ea_458socom.json"
-hash = "556405329f162b7c6e3bbb5f285d53b9f49700bdb4af311cbd29c059c4e39d4d"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_ea_458winmag.json"
-hash = "556405329f162b7c6e3bbb5f285d53b9f49700bdb4af311cbd29c059c4e39d4d"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_ea_4g.json"
-hash = "04a427e7d332b55c2eda10b18dde39c068d9ac9773d827c441a9ceed43059ea6"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_ea_50beowulf.json"
-hash = "3025da3c57c563c71e910ae90b8d8b935d036915062e5be7e525c0979554c6d8"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_ea_50gi.json"
-hash = "3025da3c57c563c71e910ae90b8d8b935d036915062e5be7e525c0979554c6d8"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_ea_556x30.json"
-hash = "3a7b87175c6073d41ca9cffbb64b184ce5243cbe7ad35d59fc8d4c4c3f5c3c84"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_ea_58x21.json"
-hash = "a2654b001dbd7dc2baf4c73fd3eed86dc2a36d8463261b6ec9711da028ffc2e7"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_ea_602x41.json"
-hash = "e27c1999a0fbd87397ee8272b66f92d7f26193b99acedd27e8703db54bffbf1c"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_ea_65creedmoor.json"
-hash = "7f9d4db365dfe4383add6195b25679f59524bb2ccdca821d976f31bc5926f7e0"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_ea_68tvcm.json"
-hash = "e27c1999a0fbd87397ee8272b66f92d7f26193b99acedd27e8703db54bffbf1c"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_ea_6arc.json"
-hash = "cefaa60fe6276839ae04d7a3b6f47fd7fbf255f5b4e0b822ecfc0c42fc875640"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_ea_75fk.json"
-hash = "d199412017bee348000ed0a3ff9ec564c15d228508a1e912810e2ad7619fbb46"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_ea_792x33.json"
-hash = "cefaa60fe6276839ae04d7a3b6f47fd7fbf255f5b4e0b822ecfc0c42fc875640"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_ea_86blk.json"
-hash = "336d3cf64d779d3e2c157c2947c2239fa01c831647cfc9064a15bd8e3b32a453"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_ea_950jdj.json"
-hash = "60ad7c036a01a43d9de2e6abee5fbfd6feef23d8db7522616486838e1ef8312e"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_ea_9x18.json"
-hash = "d66e29f11413e8f42668c8901f2006dce23e617bae7f54bf97497a2cfaedfa69"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_ea_9x21.json"
-hash = "d66e29f11413e8f42668c8901f2006dce23e617bae7f54bf97497a2cfaedfa69"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_ea_9x39.json"
-hash = "cefaa60fe6276839ae04d7a3b6f47fd7fbf255f5b4e0b822ecfc0c42fc875640"
-
-[[files]]
 file = "kubejs/assets/kubejs/models/item/casing_f4ej_kai_m56a3.json"
 hash = "60ad7c036a01a43d9de2e6abee5fbfd6feef23d8db7522616486838e1ef8312e"
 
@@ -2465,198 +2273,6 @@ file = "kubejs/assets/kubejs/models/item/casing_full_apdf_1163x39.json"
 hash = "055ced7a78d9629f1c864a77fe054108088e057cd7aa0dfdfc61ac0eef46f9e7"
 
 [[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_ea_10g.json"
-hash = "3418a4d3f918467f17afa72f41fff0738f8701ba9f80aa678e6ce82673c05f95"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_ea_10mm.json"
-hash = "b22c3738faeaccee135bdef78310a2dd5b9d160933ad6bb536e560111d7c16a7"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_ea_127x108.json"
-hash = "3bc2ad16ad18fd9791a65decb1d54fc3165f889c1af847f90de7ff15215e78d7"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_ea_127x55.json"
-hash = "3bc2ad16ad18fd9791a65decb1d54fc3165f889c1af847f90de7ff15215e78d7"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_ea_145x114.json"
-hash = "3bc2ad16ad18fd9791a65decb1d54fc3165f889c1af847f90de7ff15215e78d7"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_ea_17hmr.json"
-hash = "d0103a0e7ed640357bfcd59bd1b07f643013bd08588a62b60975d955fe87055f"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_ea_20g.json"
-hash = "3418a4d3f918467f17afa72f41fff0738f8701ba9f80aa678e6ce82673c05f95"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_ea_20x102.json"
-hash = "3bc2ad16ad18fd9791a65decb1d54fc3165f889c1af847f90de7ff15215e78d7"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_ea_22hornet.json"
-hash = "d0103a0e7ed640357bfcd59bd1b07f643013bd08588a62b60975d955fe87055f"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_ea_22lr.json"
-hash = "d0103a0e7ed640357bfcd59bd1b07f643013bd08588a62b60975d955fe87055f"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_ea_27kolibri.json"
-hash = "d0103a0e7ed640357bfcd59bd1b07f643013bd08588a62b60975d955fe87055f"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_ea_300blk.json"
-hash = "41199387891e52224ee2d8b701b2d8435270dcf9ea0c993f652bed5e8e82744a"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_ea_300winmag.json"
-hash = "03b5f0b5653e0fa5ed320f4b5d0ef8ebd94b3e33c1f671f82be118c47b169691"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_ea_3030win.json"
-hash = "03b5f0b5653e0fa5ed320f4b5d0ef8ebd94b3e33c1f671f82be118c47b169691"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_ea_30mauser.json"
-hash = "b956559ff4fd1a001acb2043cb8912801b1f5d1c8341fea0fd250532b4d5a97b"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_ea_32acp.json"
-hash = "df0e0c6cc89fef975c146ff0504a5251ac293f54c2327f7c26325c1da43a253a"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_ea_338arc.json"
-hash = "2f7206c46903187f8287053abaa8526d8a17348a8f30993eeb3f31979d24f417"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_ea_338norma.json"
-hash = "2f7206c46903187f8287053abaa8526d8a17348a8f30993eeb3f31979d24f417"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_ea_357sig.json"
-hash = "26f2cf2894d84773845950c84af57a308232514e40e5f58d54b8a8fa43e69ab2"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_ea_366magnum.json"
-hash = "26f2cf2894d84773845950c84af57a308232514e40e5f58d54b8a8fa43e69ab2"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_ea_366tkm.json"
-hash = "41199387891e52224ee2d8b701b2d8435270dcf9ea0c993f652bed5e8e82744a"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_ea_380auto.json"
-hash = "df0e0c6cc89fef975c146ff0504a5251ac293f54c2327f7c26325c1da43a253a"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_ea_408cheytac.json"
-hash = "3bc2ad16ad18fd9791a65decb1d54fc3165f889c1af847f90de7ff15215e78d7"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_ea_40sw.json"
-hash = "b22c3738faeaccee135bdef78310a2dd5b9d160933ad6bb536e560111d7c16a7"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_ea_410bore.json"
-hash = "3418a4d3f918467f17afa72f41fff0738f8701ba9f80aa678e6ce82673c05f95"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_ea_416barrett.json"
-hash = "3bc2ad16ad18fd9791a65decb1d54fc3165f889c1af847f90de7ff15215e78d7"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_ea_44magnum.json"
-hash = "0e07de9fd5b1182e9a059e242191d0a2b6025409148bcab8d8224d1233261846"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_ea_44special.json"
-hash = "0e07de9fd5b1182e9a059e242191d0a2b6025409148bcab8d8224d1233261846"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_ea_454casull.json"
-hash = "0e07de9fd5b1182e9a059e242191d0a2b6025409148bcab8d8224d1233261846"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_ea_458hamr.json"
-hash = "055ced7a78d9629f1c864a77fe054108088e057cd7aa0dfdfc61ac0eef46f9e7"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_ea_458socom.json"
-hash = "055ced7a78d9629f1c864a77fe054108088e057cd7aa0dfdfc61ac0eef46f9e7"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_ea_458winmag.json"
-hash = "055ced7a78d9629f1c864a77fe054108088e057cd7aa0dfdfc61ac0eef46f9e7"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_ea_4g.json"
-hash = "3418a4d3f918467f17afa72f41fff0738f8701ba9f80aa678e6ce82673c05f95"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_ea_50beowulf.json"
-hash = "0b3311d561e43770556de6fb4789e5bdc015b36b9e70ef8c517863db8fc27f47"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_ea_50gi.json"
-hash = "0b3311d561e43770556de6fb4789e5bdc015b36b9e70ef8c517863db8fc27f47"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_ea_556x30.json"
-hash = "4f317c584d5fe975d5e4858197794e53b0ccafd427c84ae8d32defb5fb830884"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_ea_58x21.json"
-hash = "d0103a0e7ed640357bfcd59bd1b07f643013bd08588a62b60975d955fe87055f"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_ea_602x41.json"
-hash = "3f9e391d71b1d9569ce0792b39dec9f365e9e2c51b0f3d7fc264ebcc4f97d87c"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_ea_65creedmoor.json"
-hash = "af22a9d1429b8466c291b03e8e2ac1b4730513499212a8076fced3de310eb101"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_ea_68tvcm.json"
-hash = "3f9e391d71b1d9569ce0792b39dec9f365e9e2c51b0f3d7fc264ebcc4f97d87c"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_ea_6arc.json"
-hash = "41199387891e52224ee2d8b701b2d8435270dcf9ea0c993f652bed5e8e82744a"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_ea_75fk.json"
-hash = "26f2cf2894d84773845950c84af57a308232514e40e5f58d54b8a8fa43e69ab2"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_ea_792x33.json"
-hash = "41199387891e52224ee2d8b701b2d8435270dcf9ea0c993f652bed5e8e82744a"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_ea_86blk.json"
-hash = "2f7206c46903187f8287053abaa8526d8a17348a8f30993eeb3f31979d24f417"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_ea_950jdj.json"
-hash = "3bc2ad16ad18fd9791a65decb1d54fc3165f889c1af847f90de7ff15215e78d7"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_ea_9x18.json"
-hash = "df0e0c6cc89fef975c146ff0504a5251ac293f54c2327f7c26325c1da43a253a"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_ea_9x21.json"
-hash = "df0e0c6cc89fef975c146ff0504a5251ac293f54c2327f7c26325c1da43a253a"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_ea_9x39.json"
-hash = "41199387891e52224ee2d8b701b2d8435270dcf9ea0c993f652bed5e8e82744a"
-
-[[files]]
 file = "kubejs/assets/kubejs/models/item/casing_full_f4ej_kai_m56a3.json"
 hash = "3bc2ad16ad18fd9791a65decb1d54fc3165f889c1af847f90de7ff15215e78d7"
 
@@ -2669,56 +2285,8 @@ file = "kubejs/assets/kubejs/models/item/casing_full_j10b_23_2.json"
 hash = "3bc2ad16ad18fd9791a65decb1d54fc3165f889c1af847f90de7ff15215e78d7"
 
 [[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_maxstuff_12g_db.json"
-hash = "3418a4d3f918467f17afa72f41fff0738f8701ba9f80aa678e6ce82673c05f95"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_maxstuff_12g_fl.json"
-hash = "3418a4d3f918467f17afa72f41fff0738f8701ba9f80aa678e6ce82673c05f95"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_maxstuff_bannana.json"
-hash = "df0e0c6cc89fef975c146ff0504a5251ac293f54c2327f7c26325c1da43a253a"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_maxstuff_can_blanks.json"
-hash = "df0e0c6cc89fef975c146ff0504a5251ac293f54c2327f7c26325c1da43a253a"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_maxstuff_laser.json"
-hash = "d0103a0e7ed640357bfcd59bd1b07f643013bd08588a62b60975d955fe87055f"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_maxstuff_nails.json"
-hash = "df0e0c6cc89fef975c146ff0504a5251ac293f54c2327f7c26325c1da43a253a"
-
-[[files]]
 file = "kubejs/assets/kubejs/models/item/casing_j10b_23_2.json"
 hash = "60ad7c036a01a43d9de2e6abee5fbfd6feef23d8db7522616486838e1ef8312e"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_maxstuff_12g_db.json"
-hash = "04a427e7d332b55c2eda10b18dde39c068d9ac9773d827c441a9ceed43059ea6"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_maxstuff_12g_fl.json"
-hash = "04a427e7d332b55c2eda10b18dde39c068d9ac9773d827c441a9ceed43059ea6"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_maxstuff_bannana.json"
-hash = "d66e29f11413e8f42668c8901f2006dce23e617bae7f54bf97497a2cfaedfa69"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_maxstuff_can_blanks.json"
-hash = "d66e29f11413e8f42668c8901f2006dce23e617bae7f54bf97497a2cfaedfa69"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_maxstuff_laser.json"
-hash = "a2654b001dbd7dc2baf4c73fd3eed86dc2a36d8463261b6ec9711da028ffc2e7"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_maxstuff_nails.json"
-hash = "d66e29f11413e8f42668c8901f2006dce23e617bae7f54bf97497a2cfaedfa69"
 
 [[files]]
 file = "kubejs/client_scripts/main.js"
@@ -2786,7 +2354,7 @@ hash = "9fecc54ae314ec1239dd54143e013b7d8ef4e6b7353fe1d157a1a5e760907407"
 
 [[files]]
 file = "kubejs/server_scripts/tacz_create_ammo.js"
-hash = "7a051526b3e0c47a244039635478a7b6db165e273ef3496b88046016f52f7b98"
+hash = "74efdcfc217bdfd767d9807f221a082c7f7d207e621415cea273933966f1ffc7"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
@@ -2794,7 +2362,7 @@ hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
 
 [[files]]
 file = "kubejs/startup_scripts/tacz_casings.js"
-hash = "40157a447314d8f4710597b4fb1c5fa1db0a47c053dadbe06243a7c0aa64d0b4"
+hash = "3a3ef16a97e9d9571ae5f03aef352ebcd4bcb91fda5bbe6939aad674e7cf7409"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -4003,18 +3571,8 @@ hash = "9d00be04671990315529e64c0ca2b9be6e613506940e6637fb726b620c6d1429"
 metafile = true
 
 [[files]]
-file = "tacz/coldwar.pw.toml"
-hash = "e7e1cb96b87bfa5ed790192a6f02805d33865320186c4c70076b265b25a54f4e"
-metafile = true
-
-[[files]]
 file = "tacz/create-armorer.pw.toml"
 hash = "d60b73212ac0c5caac109c50c6175767b8a5e246f12345faedf1b4f729b65a74"
-metafile = true
-
-[[files]]
-file = "tacz/endlessammo.pw.toml"
-hash = "5c77972400be1cedd4a3700f76b206287850ee487f721876c90389104feb54db"
 metafile = true
 
 [[files]]
@@ -4030,9 +3588,4 @@ metafile = true
 [[files]]
 file = "tacz/j20s.pw.toml"
 hash = "7c8a5f1c5564f6c804a6c4f48654070630255e03ff45b76a0f1055c0975bfe5f"
-metafile = true
-
-[[files]]
-file = "tacz/maxstuff.pw.toml"
-hash = "79256c7c42042bb0a42f1915414d2ff42e30a1773882ea54597cdadd38040b77"
 metafile = true
