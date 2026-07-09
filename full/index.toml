@@ -1789,39 +1789,39 @@ file = "config/offroad-server.toml"
 hash = "7dda83d4436419564b495e65b4123ab8453eb926cdd8dabc526e41d3ace6bf40"
 
 [[files]]
-file = "config/openloader/resources/BiomeBloom.zip"
+file = "config/openloader/packs/BiomeBloom.zip"
 hash = "d70cff69dfd08983d9227c8389a69ced0755c624c419768d5835a0d871ecfe24"
 
 [[files]]
-file = "config/openloader/resources/GupFonts/assets/gup/font/panzer.json"
+file = "config/openloader/packs/GupFonts/assets/gup/font/panzer.json"
 hash = "afdfdd2eaa7b6c46058935c00420e462d115fc58cf1264e2e9b19b462f074ee3"
 
 [[files]]
-file = "config/openloader/resources/GupFonts/assets/gup/font/panzer.ttf"
+file = "config/openloader/packs/GupFonts/assets/gup/font/panzer.ttf"
 hash = "abc7d4bb5686593c2ecaefc11a40a966003c717a36e4f441cb0eaaecd7971014"
 
 [[files]]
-file = "config/openloader/resources/GupFonts/assets/gup/font/panzer_3d.json"
+file = "config/openloader/packs/GupFonts/assets/gup/font/panzer_3d.json"
 hash = "64dfae344af17b9dbf683501824d9f3e15105f923e7c68138c52fbdc545e4cd3"
 
 [[files]]
-file = "config/openloader/resources/GupFonts/assets/gup/font/panzer_3d.ttf"
+file = "config/openloader/packs/GupFonts/assets/gup/font/panzer_3d.ttf"
 hash = "59fbf63e3a0dda64e8cad8eafa84eb1025cdd901ac3133d053992b8e0f6efd9f"
 
 [[files]]
-file = "config/openloader/resources/GupFonts/assets/gup/font/panzer_condensed.json"
+file = "config/openloader/packs/GupFonts/assets/gup/font/panzer_condensed.json"
 hash = "4cbfdf2acbde570663acf23ae44d2564e736d3243048e6a782ac15fa92811da6"
 
 [[files]]
-file = "config/openloader/resources/GupFonts/assets/gup/font/panzer_condensed.ttf"
+file = "config/openloader/packs/GupFonts/assets/gup/font/panzer_condensed.ttf"
 hash = "df7ae848a850bf48e91ed83f248b47e5b5b4e6124beec998a447ac899e399180"
 
 [[files]]
-file = "config/openloader/resources/GupFonts/pack.mcmeta"
+file = "config/openloader/packs/GupFonts/pack.mcmeta"
 hash = "4fe8f159d1d2efcefdbaf22df44cd88b9f92c9ad3b0925c62f6d6164a7ba3ce9"
 
 [[files]]
-file = "config/openloader/resources/UniqueDark.zip"
+file = "config/openloader/packs/UniqueDark.zip"
 hash = "ffdb311e8730646db26f20bb272156edf71da1f5d0fbdc0dee91c3c512a842eb"
 
 [[files]]
