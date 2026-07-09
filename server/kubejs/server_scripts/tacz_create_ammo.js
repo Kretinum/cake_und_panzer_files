@@ -12,7 +12,7 @@
 
 ServerEvents.recipes(event => {
   const AMMOS = [
-    "f4ej_kai:m56a3", "f4ej_kai:mk32heat", "j10b:23_2"
+    "f4ej_kai:mk32heat", "j10b:23_2"
   ]
 
   function build(id) {
@@ -84,6 +84,40 @@ ServerEvents.recipes(event => {
     materials: [ { item: { tag: "tacz_c:metal_nuggets" }, count: 1 } ],
     result: { type: "custom", group: "tacz:lc_specialized", item: { id: "tacz_c:large_bullet_core", count: 1 } }
   }).id("tacz_create_ammo:core_large")
+
+  // Bootstrap: hand-craft ONE Immersive-TaCZ casing of each type at the gunsmith table (1 brass
+  // sheet -> 1 casing) to seed the saw output filters. Immersive-TaCZ saw (brass sheet -> 32) is the bulk.
+  ;[ "slap_casing", "40mmhe_casing", "grenade_casing", "pneumatic_pistol_casing", "rimmed_blunt_ap_casing" ].forEach(cas => {
+    event.custom({
+      type: "tacz:gun_smith_table_crafting",
+      materials: [ { item: { item: "create:brass_sheet" }, count: 1 } ],
+      result: { type: "custom", group: "tacz:lc_specialized", item: { id: "createimmersivetacz:" + cas, count: 1 } }
+    })
+
+  // 20x102 (m56a3) crafts like the Armorer bullets: brass sheet -> casing (saw/gunsmith) -> fill.
+  // 16 casings per brass sheet. Casing item is registered by tacz_casings.js.
+  event.custom({
+    type: "create:cutting",
+    ingredients: [ { item: "create:brass_sheet" } ],
+    processingTime: 200,
+    results: [ { id: "kubejs:casing_f4ej_kai_m56a3", count: 16 } ]
+  }).id("tacz_create_ammo:m56a3_saw")
+  event.custom({
+    type: "tacz:gun_smith_table_crafting",
+    materials: [ { item: { item: "create:brass_sheet" }, count: 1 } ],
+    result: { type: "custom", group: "tacz:lc_specialized", item: { id: "kubejs:casing_f4ej_kai_m56a3", count: 1 } }
+  }).id("tacz_create_ammo:m56a3_bootstrap")
+  event.custom({
+    type: "create:sequenced_assembly",
+    ingredient: { item: "kubejs:casing_f4ej_kai_m56a3" },
+    loops: 1,
+    results: [ { id: "tacz:ammo", count: 1, components: { "minecraft:custom_data": { AmmoId: "f4ej_kai:m56a3" } } } ],
+    sequence: [
+      { type: "create:deploying", ingredients: [ { item: "kubejs:casing_f4ej_kai_m56a3" }, { item: "createimmersivetacz:primer" } ], results: [ { id: "kubejs:casing_f4ej_kai_m56a3" } ] },
+      { type: "create:filling", ingredients: [ { item: "kubejs:casing_f4ej_kai_m56a3" }, { fluid: "createimmersivetacz:gunpowder_fluid", type: "neoforge:single", amount: 25 } ], results: [ { id: "kubejs:casing_f4ej_kai_m56a3" } ] }
+    ],
+    transitional_item: { id: "kubejs:casing_f4ej_kai_m56a3" }
+  }).id("tacz_create_ammo:m56a3_fill")
 
   // Bullet table makes ONLY casings: remove every native full-ammo recipe (ids are tacz:ammo/<caliber>).
   // Full ammo is craftable exclusively via the Create chain above. Casing recipes (tacz_create_ammo:casing_*)

@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://github.com/Kretinum/cake_und_panzer_files/releases/download/gunpacks/Create.Armorer-v1.2.0.1-for117.zip"
 hash-format = "sha256"
-hash = "905ca31c0cfbbcab17bdb4a7b69c4f0381e00f32162a6fa0dbac2d7e5849a99b"
+hash = "4085dc3c523bf2e6d8b2caa6158fe17b80de1396cfceac1e80d8be3fd697954b"
