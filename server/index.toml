@@ -2110,7 +2110,7 @@ hash = "9fecc54ae314ec1239dd54143e013b7d8ef4e6b7353fe1d157a1a5e760907407"
 
 [[files]]
 file = "kubejs/server_scripts/tacz_create_ammo.js"
-hash = "24cb4757141757031985b1d2c48ec61446b177aa0ae9abf455faad967a4f9b59"
+hash = "b21bd0456e545327d728722e274c905ee8f7f8a0d65052800c1946c0301248c2"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
@@ -3062,7 +3062,7 @@ metafile = true
 
 [[files]]
 file = "tacz/f4ej.pw.toml"
-hash = "86cf502876dc87d6ab35eab5cc16a2343c64f54de677ac42f88ebd60b827db4a"
+hash = "50e03652faa704cabcd58288ca43c013b264c2241976e59708afbc2e996da7ed"
 metafile = true
 
 [[files]]
