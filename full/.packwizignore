@@ -4,3 +4,4 @@ config/jei/world
 config/jei/world/**
 *.log
 shaderpacks/*+ EuphoriaPatches*/
+options.txt

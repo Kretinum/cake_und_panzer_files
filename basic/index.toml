@@ -1325,10 +1325,6 @@ file = "config/fancymenu/legacy_checklist.txt"
 hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
-file = "config/fancymenu/options.txt"
-hash = "c44813dbf4b58e5c7af55572bba8cc9c57d9513f512c8d7fdc6f771827564c87"
-
-[[files]]
 file = "config/fancymenu/options.txt.bak"
 hash = "9651d653a4c5e9d1c2464e3d17f3ecb7852c7bc0ad1f19180849deb192ad07a4"
 
@@ -1763,6 +1759,38 @@ hash = "0f1415d7fef6d7f6194275501d500b633dd3310aea40d64128edd1b096372f60"
 [[files]]
 file = "config/offroad-server.toml"
 hash = "7dda83d4436419564b495e65b4123ab8453eb926cdd8dabc526e41d3ace6bf40"
+
+[[files]]
+file = "config/openloader/resources/GupFonts/assets/gup/font/panzer.json"
+hash = "afdfdd2eaa7b6c46058935c00420e462d115fc58cf1264e2e9b19b462f074ee3"
+
+[[files]]
+file = "config/openloader/resources/GupFonts/assets/gup/font/panzer.ttf"
+hash = "abc7d4bb5686593c2ecaefc11a40a966003c717a36e4f441cb0eaaecd7971014"
+
+[[files]]
+file = "config/openloader/resources/GupFonts/assets/gup/font/panzer_3d.json"
+hash = "64dfae344af17b9dbf683501824d9f3e15105f923e7c68138c52fbdc545e4cd3"
+
+[[files]]
+file = "config/openloader/resources/GupFonts/assets/gup/font/panzer_3d.ttf"
+hash = "59fbf63e3a0dda64e8cad8eafa84eb1025cdd901ac3133d053992b8e0f6efd9f"
+
+[[files]]
+file = "config/openloader/resources/GupFonts/assets/gup/font/panzer_condensed.json"
+hash = "4cbfdf2acbde570663acf23ae44d2564e736d3243048e6a782ac15fa92811da6"
+
+[[files]]
+file = "config/openloader/resources/GupFonts/assets/gup/font/panzer_condensed.ttf"
+hash = "df7ae848a850bf48e91ed83f248b47e5b5b4e6124beec998a447ac899e399180"
+
+[[files]]
+file = "config/openloader/resources/GupFonts/pack.mcmeta"
+hash = "4fe8f159d1d2efcefdbaf22df44cd88b9f92c9ad3b0925c62f6d6164a7ba3ce9"
+
+[[files]]
+file = "config/openloader/resources/UniqueDark.zip"
+hash = "ffdb311e8730646db26f20bb272156edf71da1f5d0fbdc0dee91c3c512a842eb"
 
 [[files]]
 file = "config/particle_core_config.toml"
@@ -3472,42 +3500,6 @@ metafile = true
 file = "mods/yungs-cave-biomes.pw.toml"
 hash = "d047f4ab65550917cc3981e3294d5c39c99a755165407a3dcb3a0f3273558b7e"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "739809669cedc11f31346d1cb67dc9fbdf2d443901cd8086392036b6c92363b2"
-
-[[files]]
-file = "resourcepacks/GupFonts/assets/gup/font/panzer.json"
-hash = "afdfdd2eaa7b6c46058935c00420e462d115fc58cf1264e2e9b19b462f074ee3"
-
-[[files]]
-file = "resourcepacks/GupFonts/assets/gup/font/panzer.ttf"
-hash = "abc7d4bb5686593c2ecaefc11a40a966003c717a36e4f441cb0eaaecd7971014"
-
-[[files]]
-file = "resourcepacks/GupFonts/assets/gup/font/panzer_3d.json"
-hash = "64dfae344af17b9dbf683501824d9f3e15105f923e7c68138c52fbdc545e4cd3"
-
-[[files]]
-file = "resourcepacks/GupFonts/assets/gup/font/panzer_3d.ttf"
-hash = "59fbf63e3a0dda64e8cad8eafa84eb1025cdd901ac3133d053992b8e0f6efd9f"
-
-[[files]]
-file = "resourcepacks/GupFonts/assets/gup/font/panzer_condensed.json"
-hash = "4cbfdf2acbde570663acf23ae44d2564e736d3243048e6a782ac15fa92811da6"
-
-[[files]]
-file = "resourcepacks/GupFonts/assets/gup/font/panzer_condensed.ttf"
-hash = "df7ae848a850bf48e91ed83f248b47e5b5b4e6124beec998a447ac899e399180"
-
-[[files]]
-file = "resourcepacks/GupFonts/pack.mcmeta"
-hash = "4fe8f159d1d2efcefdbaf22df44cd88b9f92c9ad3b0925c62f6d6164a7ba3ce9"
-
-[[files]]
-file = "resourcepacks/Unique Dark - Lite - 1.20.2-26.x.zip"
-hash = "ffdb311e8730646db26f20bb272156edf71da1f5d0fbdc0dee91c3c512a842eb"
 
 [[files]]
 file = "servers.dat"
