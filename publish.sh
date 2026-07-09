@@ -68,6 +68,10 @@ for p in full basic server; do
   # client packs: strip the user-settings files out of the overwrite zip (server keeps all its configs)
   if [ "$p" != "server" ]; then
     zip -d -q "$z" $PREF_FILES >/dev/null 2>&1 || true
+    # Iris per-shaderpack option files (written by the in-game shader settings screen) are user
+    # territory too. packwiz still delivers our defaults on a fresh install and preserves later
+    # in-game edits, so keeping them OUT of the overwrite zip stops updates from resetting shaders.
+    zip -d -q "$z" 'shaderpacks/*.txt' >/dev/null 2>&1 || true
   fi
   gh release upload "$NEW" "$z" --repo "$GH_REPO" --clobber >/dev/null 2>&1
   echo "    attached $name ($(du -h "$z" | cut -f1 | tr -d ' '))"
