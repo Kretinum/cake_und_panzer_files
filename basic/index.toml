@@ -3110,6 +3110,11 @@ hash = "8173407b42f4c93898568c4e043d1a270159d1e4fef9d5a317de2571e31dad28"
 metafile = true
 
 [[files]]
+file = "mods/open-loader.pw.toml"
+hash = "904c4adb3f8087a2c5381efd5d210183484934540372a5c839ab4790325e5cff"
+metafile = true
+
+[[files]]
 file = "mods/particle-core.pw.toml"
 hash = "b1949e63c62742b6d21bf3e4e13aa457150fefc911f52489a457aef922edac91"
 metafile = true
@@ -3481,7 +3486,7 @@ hash = "cfef66d741759b9e803527c70e18ef571a58547e0a2d91b8d78155c5834db3e3"
 
 [[files]]
 file = "tacz/create-armorer.pw.toml"
-hash = "d60b73212ac0c5caac109c50c6175767b8a5e246f12345faedf1b4f729b65a74"
+hash = "6491ff02cd2cdbddbfc7828f6659736e8bbc31d3c4be51bf21bd2dfcbc46fad2"
 metafile = true
 
 [[files]]
