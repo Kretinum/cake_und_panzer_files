@@ -12,7 +12,6 @@
 
 ServerEvents.recipes(event => {
   const AMMOS = [
-    "apdf:0950x38", "apdf:1163x39",
     "f4ej_kai:m56a3", "f4ej_kai:mk32heat", "j10b:23_2"
   ]
 
@@ -90,6 +89,11 @@ ServerEvents.recipes(event => {
   // Full ammo is craftable exclusively via the Create chain above. Casing recipes (tacz_create_ammo:casing_*)
   // and guns/attachments are untouched.
   event.remove({ id: /^tacz:ammo\/.*/ })
+  // disable ALL vanilla TaCZ guns + attachments: strip their gunsmith recipes so they
+  // are uncraftable / not shown in the table. Kept packs (f4ej_kai/j10b/j20s/create_armorer)
+  // use their own namespaces, so they are untouched.
+  event.remove({ id: /^tacz:gun\/.*/ })
+  event.remove({ id: /^tacz:attachments\/.*/ })
   // gun-pack ammo moved to the Create chain -> remove their bullet-table recipes
   event.remove({ id: "f4ej_kai:ammo/m56a3" })
   event.remove({ id: "f4ej_kai:ammo/mk32" })

@@ -2249,28 +2249,12 @@ file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
-file = "kubejs/assets/kubejs/models/item/casing_apdf_0950x38.json"
-hash = "b2971511f2af6cc62941204dbb55ad1c1463074c2a3cd3e622c0d4dacea70be8"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_apdf_1163x39.json"
-hash = "556405329f162b7c6e3bbb5f285d53b9f49700bdb4af311cbd29c059c4e39d4d"
-
-[[files]]
 file = "kubejs/assets/kubejs/models/item/casing_f4ej_kai_m56a3.json"
 hash = "60ad7c036a01a43d9de2e6abee5fbfd6feef23d8db7522616486838e1ef8312e"
 
 [[files]]
 file = "kubejs/assets/kubejs/models/item/casing_f4ej_kai_mk32heat.json"
 hash = "60ad7c036a01a43d9de2e6abee5fbfd6feef23d8db7522616486838e1ef8312e"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_apdf_0950x38.json"
-hash = "b22c3738faeaccee135bdef78310a2dd5b9d160933ad6bb536e560111d7c16a7"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_apdf_1163x39.json"
-hash = "055ced7a78d9629f1c864a77fe054108088e057cd7aa0dfdfc61ac0eef46f9e7"
 
 [[files]]
 file = "kubejs/assets/kubejs/models/item/casing_full_f4ej_kai_m56a3.json"
@@ -2354,7 +2338,7 @@ hash = "9fecc54ae314ec1239dd54143e013b7d8ef4e6b7353fe1d157a1a5e760907407"
 
 [[files]]
 file = "kubejs/server_scripts/tacz_create_ammo.js"
-hash = "74efdcfc217bdfd767d9807f221a082c7f7d207e621415cea273933966f1ffc7"
+hash = "b73eb6125e7a2fd1e69c8b77522297c72da35b77cb8a86587647dc2c714a8b83"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
@@ -2362,7 +2346,7 @@ hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
 
 [[files]]
 file = "kubejs/startup_scripts/tacz_casings.js"
-hash = "3a3ef16a97e9d9571ae5f03aef352ebcd4bcb91fda5bbe6939aad674e7cf7409"
+hash = "8c02742c7f94c5c4713797d79487a59f66914461077b4b7d646e5eb7446fc38e"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -3563,11 +3547,6 @@ metafile = true
 [[files]]
 file = "shaderpacks/hysteria-shaders.pw.toml"
 hash = "6b8447f885cb5a18d2d615390aee1050df5b8a498d4b15f6c4d89fb7ddb0b7ca"
-metafile = true
-
-[[files]]
-file = "tacz/arips.pw.toml"
-hash = "9d00be04671990315529e64c0ca2b9be6e613506940e6637fb726b620c6d1429"
 metafile = true
 
 [[files]]

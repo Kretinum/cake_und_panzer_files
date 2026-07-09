@@ -4,7 +4,6 @@
 // Item registration is at STARTUP -> requires a game restart.
 
 const AMMOS = [
-    "apdf:0950x38", "apdf:1163x39",
     "f4ej_kai:m56a3", "f4ej_kai:mk32heat", "j10b:23_2"
   ]
 
