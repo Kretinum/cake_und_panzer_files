@@ -533,6 +533,7 @@ element {
   horizontal_tilt_degrees = 0.0
   advanced_horizontal_tilt_degrees = 0.0
   volume = 1.0
+  sound_source = music
 }
 
 element {
