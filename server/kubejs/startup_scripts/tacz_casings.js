@@ -4,7 +4,8 @@
 // Item registration is at STARTUP -> requires a game restart.
 
 const AMMOS = [
-    "f4ej_kai:m56a3", "f4ej_kai:mk32heat", "j10b:23_2"
+    "f4ej_kai:m56a3", "f4ej_kai:mk32heat", "j10b:23_2",
+    "create_armorer:slap", "create_armorer:40mmhe", "create_armorer:gernade", "create_armorer:gas_pistol_ammo", "create_armorer:rbapb"
   ]
 
 StartupEvents.registry("item", event => {

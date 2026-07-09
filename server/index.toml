@@ -2001,12 +2001,52 @@ file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
+file = "kubejs/assets/kubejs/models/item/casing_create_armorer_40mmhe.json"
+hash = "60ad7c036a01a43d9de2e6abee5fbfd6feef23d8db7522616486838e1ef8312e"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/casing_create_armorer_gas_pistol_ammo.json"
+hash = "60ad7c036a01a43d9de2e6abee5fbfd6feef23d8db7522616486838e1ef8312e"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/casing_create_armorer_gernade.json"
+hash = "60ad7c036a01a43d9de2e6abee5fbfd6feef23d8db7522616486838e1ef8312e"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/casing_create_armorer_rbapb.json"
+hash = "60ad7c036a01a43d9de2e6abee5fbfd6feef23d8db7522616486838e1ef8312e"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/casing_create_armorer_slap.json"
+hash = "60ad7c036a01a43d9de2e6abee5fbfd6feef23d8db7522616486838e1ef8312e"
+
+[[files]]
 file = "kubejs/assets/kubejs/models/item/casing_f4ej_kai_m56a3.json"
 hash = "60ad7c036a01a43d9de2e6abee5fbfd6feef23d8db7522616486838e1ef8312e"
 
 [[files]]
 file = "kubejs/assets/kubejs/models/item/casing_f4ej_kai_mk32heat.json"
 hash = "60ad7c036a01a43d9de2e6abee5fbfd6feef23d8db7522616486838e1ef8312e"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/casing_full_create_armorer_40mmhe.json"
+hash = "3bc2ad16ad18fd9791a65decb1d54fc3165f889c1af847f90de7ff15215e78d7"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/casing_full_create_armorer_gas_pistol_ammo.json"
+hash = "3bc2ad16ad18fd9791a65decb1d54fc3165f889c1af847f90de7ff15215e78d7"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/casing_full_create_armorer_gernade.json"
+hash = "3bc2ad16ad18fd9791a65decb1d54fc3165f889c1af847f90de7ff15215e78d7"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/casing_full_create_armorer_rbapb.json"
+hash = "3bc2ad16ad18fd9791a65decb1d54fc3165f889c1af847f90de7ff15215e78d7"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/casing_full_create_armorer_slap.json"
+hash = "3bc2ad16ad18fd9791a65decb1d54fc3165f889c1af847f90de7ff15215e78d7"
 
 [[files]]
 file = "kubejs/assets/kubejs/models/item/casing_full_f4ej_kai_m56a3.json"
@@ -2039,18 +2079,6 @@ hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
 [[files]]
 file = "kubejs/config/web_server.json"
 hash = "cc856ef95ddb958dca39839bfb32c2e8e5a6c4ae4d4075db30e30b5358b66ff5"
-
-[[files]]
-file = "kubejs/data/createimmersivetacz/recipe/ammo/pneumatic_pistol_casing_fill.json"
-hash = "1e3e76c0e2889a1ad45e6012583cf83cd992adcb33acb7e902f342c4cf8659e8"
-
-[[files]]
-file = "kubejs/data/createimmersivetacz/recipe/ammo/rimmed_blunt_ap_casing_fill.json"
-hash = "95c2f5fac7056f570c836b27b61f1c04baca8730b71639e1533855f039859f50"
-
-[[files]]
-file = "kubejs/data/createimmersivetacz/recipe/ammo/slap_casing_fill.json"
-hash = "c03dcf88e866b19ab5766c7baca997fd3984d2ddce83b7c7bdb24592bb4b76dc"
 
 [[files]]
 file = "kubejs/data/createimmersivetacz/recipe/ammo/twelve_gauge_shell_fill.json"
@@ -2090,7 +2118,7 @@ hash = "9fecc54ae314ec1239dd54143e013b7d8ef4e6b7353fe1d157a1a5e760907407"
 
 [[files]]
 file = "kubejs/server_scripts/tacz_create_ammo.js"
-hash = "b73eb6125e7a2fd1e69c8b77522297c72da35b77cb8a86587647dc2c714a8b83"
+hash = "0c47afd4abf28198ea91444593e5bcdf7129a0e89f0b47378b1343fdff65710e"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
@@ -2098,7 +2126,7 @@ hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
 
 [[files]]
 file = "kubejs/startup_scripts/tacz_casings.js"
-hash = "8c02742c7f94c5c4713797d79487a59f66914461077b4b7d646e5eb7446fc38e"
+hash = "eb461ddcda6e839b99d13a775fc838a5ee19c06a1e18ecf830377d6148f5cae5"
 
 [[files]]
 file = "mods/addonslib.pw.toml"

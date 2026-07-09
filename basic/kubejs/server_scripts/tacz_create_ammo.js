@@ -12,7 +12,8 @@
 
 ServerEvents.recipes(event => {
   const AMMOS = [
-    "f4ej_kai:m56a3", "f4ej_kai:mk32heat", "j10b:23_2"
+    "f4ej_kai:m56a3", "f4ej_kai:mk32heat", "j10b:23_2",
+    "create_armorer:slap", "create_armorer:40mmhe", "create_armorer:gernade", "create_armorer:gas_pistol_ammo", "create_armorer:rbapb"
   ]
 
   function build(id) {
@@ -94,6 +95,10 @@ ServerEvents.recipes(event => {
   // use their own namespaces, so they are untouched.
   event.remove({ id: /^tacz:gun\/.*/ })
   event.remove({ id: /^tacz:attachments\/.*/ })
+  // Create Armorer ammo now uses OUR unprepared->prepared casing chain above (bootstrappable at the
+  // gunsmith table, returns 1). Remove Immersive-TaCZ brass-sheet casing + fill recipes for them so
+  // ours is the only path. tacz:12g stays on Immersive-TaCZ.
+  event.remove({ id: /^createimmersivetacz:ammo\/(slap|40mmhe|grenade|pneumatic_pistol|rimmed_blunt_ap)_casing.*/ })
   // gun-pack ammo moved to the Create chain -> remove their bullet-table recipes
   event.remove({ id: "f4ej_kai:ammo/m56a3" })
   event.remove({ id: "f4ej_kai:ammo/mk32" })
