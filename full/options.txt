@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["mod/softimprints:resourcepacks/debug","tacz_resources","vanilla","fabric","mod_resources","SnowySodiumStairs","moonlight:merged_pack","continuity:default","continuity:glass_pane_culling_fix","programmer_art","file/§aBiomeBloom§8.zip","mod/cullleaves:resourcepacks/smartleaves","vinery:bushy_leaves","file/GupFonts","file/Unique Dark - Lite - 1.20.2-26.x.zip"]
+resourcePacks:["mod/softimprints:resourcepacks/debug","tacz_resources","vanilla","fabric","mod_resources","SnowySodiumStairs","file/Unique Dark - Lite - 1.20.2-26.x.zip","moonlight:merged_pack","continuity:default","continuity:glass_pane_culling_fix","programmer_art","file/§aBiomeBloom§8.zip","mod/cullleaves:resourcepacks/smartleaves","vinery:bushy_leaves","file/GupFonts"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us

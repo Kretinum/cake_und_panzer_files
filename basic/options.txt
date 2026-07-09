@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["fabric","file/GupFonts","file/Unique Dark - Lite - 1.20.2-26.x.zip"]
+resourcePacks:["tacz_resources","vanilla","fabric","file/GupFonts","mod_resources","SnowySodiumStairs","file/Unique Dark - Lite - 1.20.2-26.x.zip","moonlight:merged_pack"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us

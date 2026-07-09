@@ -3913,7 +3913,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "aa759f2bdc5b30b97ec374fdc0d96b69e095a41cd124cc7647cbc1a2a4812e91"
+hash = "ea408f7a8b529ad4f9735bc4ae8ac701bdc0c28c445757611bdf126fd0cde328"
 
 [[files]]
 file = "resourcepacks/GupFonts/assets/gup/font/panzer.json"
