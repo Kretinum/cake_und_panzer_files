@@ -2001,36 +2001,12 @@ file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
-file = "kubejs/assets/kubejs/models/item/casing_create_armorer_gas_pistol_ammo.json"
-hash = "60ad7c036a01a43d9de2e6abee5fbfd6feef23d8db7522616486838e1ef8312e"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_create_armorer_rbapb.json"
-hash = "60ad7c036a01a43d9de2e6abee5fbfd6feef23d8db7522616486838e1ef8312e"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_create_armorer_slap.json"
-hash = "60ad7c036a01a43d9de2e6abee5fbfd6feef23d8db7522616486838e1ef8312e"
-
-[[files]]
 file = "kubejs/assets/kubejs/models/item/casing_f4ej_kai_m56a3.json"
 hash = "60ad7c036a01a43d9de2e6abee5fbfd6feef23d8db7522616486838e1ef8312e"
 
 [[files]]
 file = "kubejs/assets/kubejs/models/item/casing_f4ej_kai_mk32heat.json"
 hash = "60ad7c036a01a43d9de2e6abee5fbfd6feef23d8db7522616486838e1ef8312e"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_create_armorer_gas_pistol_ammo.json"
-hash = "3bc2ad16ad18fd9791a65decb1d54fc3165f889c1af847f90de7ff15215e78d7"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_create_armorer_rbapb.json"
-hash = "3bc2ad16ad18fd9791a65decb1d54fc3165f889c1af847f90de7ff15215e78d7"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_create_armorer_slap.json"
-hash = "3bc2ad16ad18fd9791a65decb1d54fc3165f889c1af847f90de7ff15215e78d7"
 
 [[files]]
 file = "kubejs/assets/kubejs/models/item/casing_full_f4ej_kai_m56a3.json"
@@ -2102,7 +2078,7 @@ hash = "9fecc54ae314ec1239dd54143e013b7d8ef4e6b7353fe1d157a1a5e760907407"
 
 [[files]]
 file = "kubejs/server_scripts/tacz_create_ammo.js"
-hash = "83b2acfdf36ceb939381184e3ce1c54da863af0386351105a451babd88074603"
+hash = "b01aa2aa984143232de88684154951df7051af5b586468fd73fb5502d5021277"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
@@ -2110,7 +2086,7 @@ hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
 
 [[files]]
 file = "kubejs/startup_scripts/tacz_casings.js"
-hash = "70d544571e2d68b8069dfb11cdb5cb80a700b7e7a2e47db15137a7a77ea4418a"
+hash = "8c02742c7f94c5c4713797d79487a59f66914461077b4b7d646e5eb7446fc38e"
 
 [[files]]
 file = "mods/addonslib.pw.toml"

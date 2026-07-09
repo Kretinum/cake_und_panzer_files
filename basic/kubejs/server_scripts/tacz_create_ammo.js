@@ -12,8 +12,7 @@
 
 ServerEvents.recipes(event => {
   const AMMOS = [
-    "f4ej_kai:m56a3", "f4ej_kai:mk32heat", "j10b:23_2",
-    "create_armorer:slap", "create_armorer:gas_pistol_ammo", "create_armorer:rbapb"
+    "f4ej_kai:m56a3", "f4ej_kai:mk32heat", "j10b:23_2"
   ]
 
   function build(id) {
@@ -86,22 +85,6 @@ ServerEvents.recipes(event => {
     result: { type: "custom", group: "tacz:lc_specialized", item: { id: "tacz_c:large_bullet_core", count: 1 } }
   }).id("tacz_create_ammo:core_large")
 
-  // 40mmhe stays on Create: Immersive TaCZ own recipe, but its empty casing was un-bootstrappable
-  // (the saw needs a filter you cannot obtain first). Hand-craft ONE empty casing at the gunsmith table.
-  event.custom({
-    type: "tacz:gun_smith_table_crafting",
-    materials: [ { item: { item: "tacz_c:annealed_brass_cylinder" }, count: 1 } ],
-    result: { type: "custom", group: "tacz:lc_specialized", item: { id: "createimmersivetacz:40mmhe_casing", count: 1 } }
-  }).id("tacz_create_ammo:cit_bootstrap_40mmhe")
-
-  // gernade stays on Create: Immersive TaCZ fill recipe (like 40mmhe); gunsmith-table recipe to
-  // hand-craft ONE empty grenade casing to seed the saw filter.
-  event.custom({
-    type: "tacz:gun_smith_table_crafting",
-    materials: [ { item: { item: "tacz_c:annealed_brass_cylinder" }, count: 1 } ],
-    result: { type: "custom", group: "tacz:lc_specialized", item: { id: "createimmersivetacz:grenade_casing", count: 1 } }
-  }).id("tacz_create_ammo:cit_bootstrap_grenade")
-
   // Bullet table makes ONLY casings: remove every native full-ammo recipe (ids are tacz:ammo/<caliber>).
   // Full ammo is craftable exclusively via the Create chain above. Casing recipes (tacz_create_ammo:casing_*)
   // and guns/attachments are untouched.
@@ -111,10 +94,6 @@ ServerEvents.recipes(event => {
   // use their own namespaces, so they are untouched.
   event.remove({ id: /^tacz:gun\/.*/ })
   event.remove({ id: /^tacz:attachments\/.*/ })
-  // Create Armorer ammo now uses OUR unprepared->prepared casing chain above (bootstrappable at the
-  // gunsmith table, returns 1). Remove Immersive-TaCZ brass-sheet casing + fill recipes for them so
-  // ours is the only path. tacz:12g stays on Immersive-TaCZ.
-  event.remove({ id: /^createimmersivetacz:ammo\/(slap|pneumatic_pistol|rimmed_blunt_ap)_casing.*/ })
   // gun-pack ammo moved to the Create chain -> remove their bullet-table recipes
   event.remove({ id: "f4ej_kai:ammo/m56a3" })
   event.remove({ id: "f4ej_kai:ammo/mk32" })
