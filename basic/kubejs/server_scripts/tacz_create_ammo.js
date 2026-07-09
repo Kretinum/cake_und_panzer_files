@@ -62,7 +62,7 @@ ServerEvents.recipes(event => {
     event.custom({
       type: "create:deploying",
       ingredients: [ { item: casf }, { item: "tacz_c:bullet" } ],
-      results: [ { id: "tacz:ammo", count: (id == "f4ej_kai:mk32heat" ? 16 : 8), components: { "minecraft:custom_data": { AmmoId: id } } } ]
+      results: [ { id: "tacz:ammo", count: (id == "f4ej_kai:mk32heat" ? 16 : (id == "f4ej_kai:m56a3" ? 4 : 8)), components: { "minecraft:custom_data": { AmmoId: id } } } ]
     }).id("tacz_create_ammo:" + key)
   }
 
