@@ -1313,24 +1313,12 @@ file = "config/fancymenu/customization/cup_menu_layout.txt"
 hash = "5669a8ca3fd9a90dbbcc08f6e6be1e322dcf95d8ccd829a2387359bc8a2417fa"
 
 [[files]]
-file = "config/fancymenu/customization/cup_menu_layout.txt.bak"
-hash = "034a3b517508b4f767e3f11cea7c33bc50b8341fff9ac0ca9306ce1b9ef951c3"
-
-[[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
 hash = "d4e66bc22fcfa56158ca7100017623c71b1437fb4722229b6e064e0a48a5f5de"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
 hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
-
-[[files]]
-file = "config/fancymenu/options.txt.bak"
-hash = "9651d653a4c5e9d1c2464e3d17f3ecb7852c7bc0ad1f19180849deb192ad07a4"
-
-[[files]]
-file = "config/fancymenu/options.txt.bak2"
-hash = "1dd1550a8495f3d0c1519ebe74fb5330a675f3cbbb558522fa18838d395751d0"
 
 [[files]]
 file = "config/fancymenu/panoramas/custom/panorama/panorama_0.png"

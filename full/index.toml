@@ -1261,30 +1261,6 @@ file = "config/fancymenu/assets/images/join_card_hover.png"
 hash = "7a794d9973d97c2b2b1874cf1b0cbf67973d2743812c3b7f8b78696021d9cee5"
 
 [[files]]
-file = "config/fancymenu/assets/menu_music/AYV6zCduTA0.webm"
-hash = "91d839433adc0daf93e979dd2850652a14aa742c41375b639f48f6876dea795e"
-
-[[files]]
-file = "config/fancymenu/assets/menu_music/Drum_Bun_-_Romanian_Military_March_Instrumental_Version.webm"
-hash = "d412ce26e270bcd24842f220412c6dd452fec292ad0162f9e62bf29dbc04765c"
-
-[[files]]
-file = "config/fancymenu/assets/menu_music/GIRLS_und_PANZER_Selection_University_Team_When_Johnny_comes_marching_home.webm"
-hash = "706df378681d6558f7ac9be3cac433eb1601d467911304d749d19d4a80906c5e"
-
-[[files]]
-file = "config/fancymenu/assets/menu_music/Girls_Und_Panzer_OST_-_Funiculi_Funicula.webm"
-hash = "845afe716bdb2cef53f773da4444976877cc23d90498fb4565e80ee2633f1d47"
-
-[[files]]
-file = "config/fancymenu/assets/menu_music/Katyusha_Instrumental_GuP_Version.webm"
-hash = "fbbb6371e711f2d3bf6228640d4119f955b0222910a4aa46a0568eb2b1d1f7f7"
-
-[[files]]
-file = "config/fancymenu/assets/menu_music/La_Chanson_de_l_oignon.webm"
-hash = "58dd124095e5c33b14514ff751c6023cf774e58654b2c56f043ee79c79d5bb28"
-
-[[files]]
 file = "config/fancymenu/assets/menu_music/british_grenadiers.ogg"
 hash = "1eb1fcf8e6a96cccfd965c5aa745458da7ded235de74fcbd10df846c812e4f8b"
 
@@ -1313,10 +1289,6 @@ file = "config/fancymenu/assets/menu_music/katyusha.ogg"
 hash = "38185795517e2bba153a3ce6cc994fc90e79f0acdaf2c9d8790b4c3fa945e9ab"
 
 [[files]]
-file = "config/fancymenu/assets/menu_music/tWZ0T96wcaQ.webm"
-hash = "b1246d4d367fd0763ad4e2d69948ac5ebb303e0227246e91ae6ca4f12270075b"
-
-[[files]]
 file = "config/fancymenu/assets/menu_music/when_johnny.ogg"
 hash = "85fb8dee57e2069a5a360271af7218414af6dca74565f40cd80035757761cf5d"
 
@@ -1341,24 +1313,12 @@ file = "config/fancymenu/customization/cup_menu_layout.txt"
 hash = "5669a8ca3fd9a90dbbcc08f6e6be1e322dcf95d8ccd829a2387359bc8a2417fa"
 
 [[files]]
-file = "config/fancymenu/customization/cup_menu_layout.txt.bak"
-hash = "034a3b517508b4f767e3f11cea7c33bc50b8341fff9ac0ca9306ce1b9ef951c3"
-
-[[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
 hash = "d4e66bc22fcfa56158ca7100017623c71b1437fb4722229b6e064e0a48a5f5de"
 
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
 hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
-
-[[files]]
-file = "config/fancymenu/options.txt.bak"
-hash = "9651d653a4c5e9d1c2464e3d17f3ecb7852c7bc0ad1f19180849deb192ad07a4"
-
-[[files]]
-file = "config/fancymenu/options.txt.bak2"
-hash = "1dd1550a8495f3d0c1519ebe74fb5330a675f3cbbb558522fa18838d395751d0"
 
 [[files]]
 file = "config/fancymenu/panoramas/custom/panorama/panorama_0.png"
