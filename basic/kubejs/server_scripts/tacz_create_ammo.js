@@ -92,7 +92,8 @@ ServerEvents.recipes(event => {
       type: "tacz:gun_smith_table_crafting",
       materials: [ { item: { item: "create:brass_sheet" }, count: 1 } ],
       result: { type: "custom", group: "tacz:lc_specialized", item: { id: "createimmersivetacz:" + cas, count: 1 } }
-    })
+    }).id("tacz_create_ammo:cit_bootstrap_" + cas)
+  })
 
   // 20x102 (m56a3) crafts like the Armorer bullets: brass sheet -> casing (saw/gunsmith) -> fill.
   // 16 casings per brass sheet. Casing item is registered by tacz_casings.js.
