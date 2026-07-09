@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://github.com/Kretinum/cake_und_panzer_files/releases/download/gunpacks/F4EJ_Kai_weapons.zip"
 hash-format = "sha256"
-hash = "83bf6d932c442b815984c93b28b2fbdf0cec5ffa60db7d384cd07cc9a15d9ccf"
+hash = "cbf4f07092b7794c1ae28d5fe1a203bdbef695aa978cbf6821c8377762fab269"
