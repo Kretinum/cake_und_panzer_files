@@ -2479,6 +2479,11 @@ hash = "f51b85e23e25a0bb3f45fcb263859a1e6202771ba2da84f79439c188fa6ecefe"
 metafile = true
 
 [[files]]
+file = "mods/caelus.pw.toml"
+hash = "992b0dca9683f225fc774d779762d18a009f2d82b9d051e7c0b55a33a95d9238"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "6e8e0f94a0dd149e15ca86db1323f089553bf15e66281533c9e5a258df6fdc12"
 metafile = true
@@ -2781,6 +2786,11 @@ metafile = true
 [[files]]
 file = "mods/ecliptic-seasons.pw.toml"
 hash = "44c78582b14b04e1714b98c7aa60a651ef913d2d1e51de9d991fd20c557996e0"
+metafile = true
+
+[[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "9e2b351f3cabb1252259f5383e6f2fec3e3d90534dbecddef4ed183eba42f35a"
 metafile = true
 
 [[files]]
