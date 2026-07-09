@@ -2221,10 +2221,6 @@ file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
-file = "kubejs/assets/kubejs/models/item/casing_create_armorer_40mmhe.json"
-hash = "60ad7c036a01a43d9de2e6abee5fbfd6feef23d8db7522616486838e1ef8312e"
-
-[[files]]
 file = "kubejs/assets/kubejs/models/item/casing_create_armorer_gas_pistol_ammo.json"
 hash = "60ad7c036a01a43d9de2e6abee5fbfd6feef23d8db7522616486838e1ef8312e"
 
@@ -2247,10 +2243,6 @@ hash = "60ad7c036a01a43d9de2e6abee5fbfd6feef23d8db7522616486838e1ef8312e"
 [[files]]
 file = "kubejs/assets/kubejs/models/item/casing_f4ej_kai_mk32heat.json"
 hash = "60ad7c036a01a43d9de2e6abee5fbfd6feef23d8db7522616486838e1ef8312e"
-
-[[files]]
-file = "kubejs/assets/kubejs/models/item/casing_full_create_armorer_40mmhe.json"
-hash = "3bc2ad16ad18fd9791a65decb1d54fc3165f889c1af847f90de7ff15215e78d7"
 
 [[files]]
 file = "kubejs/assets/kubejs/models/item/casing_full_create_armorer_gas_pistol_ammo.json"
@@ -2342,7 +2334,7 @@ hash = "9fecc54ae314ec1239dd54143e013b7d8ef4e6b7353fe1d157a1a5e760907407"
 
 [[files]]
 file = "kubejs/server_scripts/tacz_create_ammo.js"
-hash = "0c47afd4abf28198ea91444593e5bcdf7129a0e89f0b47378b1343fdff65710e"
+hash = "8ab1f734840f93e2558007ed2d52fca900f289fdd91103b20e969400d50f0216"
 
 [[files]]
 file = "kubejs/startup_scripts/main.js"
@@ -2350,7 +2342,7 @@ hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
 
 [[files]]
 file = "kubejs/startup_scripts/tacz_casings.js"
-hash = "eb461ddcda6e839b99d13a775fc838a5ee19c06a1e18ecf830377d6148f5cae5"
+hash = "a36655ec1b1ab004611f59712aa3609b6c8858cad7dd043326602ef09392d4bf"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
