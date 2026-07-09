@@ -3050,12 +3050,12 @@ metafile = true
 
 [[files]]
 file = "tacz/create-armorer.pw.toml"
-hash = "5ec3881e225ed0727ea4b391766a959176c8c7b370f41fb995500419867a036d"
+hash = "67e802c93587fc9d1e9d67070cb75b400bf0138818cf4211f3d75e33e10fc6b9"
 metafile = true
 
 [[files]]
 file = "tacz/f4ej.pw.toml"
-hash = "14b27bde6d65a0cad85dcb54c41e37082ef64d7a616476a446665bf378029adf"
+hash = "ce08426540ac31182605124354beabd69162e96f8f3229da74292bb75752c03e"
 metafile = true
 
 [[files]]
