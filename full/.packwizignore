@@ -4,4 +4,3 @@ config/jei/world
 config/jei/world/**
 *.log
 shaderpacks/*+ EuphoriaPatches*/
-config/luminousdust-client.toml

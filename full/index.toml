@@ -3422,11 +3422,6 @@ hash = "5083db967b008fbad35bc554e5a0e937764d6a0a038a77c695669e3a9f6c6431"
 metafile = true
 
 [[files]]
-file = "mods/luminous-dust.pw.toml"
-hash = "321fe54a3b95c591c6d602a88a9e1de18b9cf72054632a23b5eec0ec38f1ee51"
-metafile = true
-
-[[files]]
 file = "mods/lunar.pw.toml"
 hash = "e94854bfa558e89e334a8563852b00a8341e0d76f676e9d50157999ed7d8c205"
 metafile = true
