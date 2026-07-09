@@ -2861,6 +2861,11 @@ hash = "1d37ac39109aa15d03a3a7ddf6402d63f72277acafca53f61830046acfe6edb0"
 metafile = true
 
 [[files]]
+file = "mods/simply-tooltips.pw.toml"
+hash = "a57c5f9887fca29fa2c1e6989e8933b8303f61ae21ab95454f769c1926187d41"
+metafile = true
+
+[[files]]
 file = "mods/simplycataclysm.pw.toml"
 hash = "4fd1283e3f2e8dad4c3023f8a77cb071086e5ebcc83f022a1cb060f41b18695a"
 metafile = true
