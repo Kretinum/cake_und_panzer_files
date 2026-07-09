@@ -3259,6 +3259,16 @@ hash = "052e0d2aa6bad70576663c324e4d645be71254720e1e59218d6d362eca773b35"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "8d0f5b702b813c816f9197444f59e81c72a01c47ff186f6c771dd5fae2b37190"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "636339949e3f45c2620128d5414071d91e4bdf98deb51f2bd657df157ec76d8b"
+metafile = true
+
+[[files]]
 file = "mods/storage-drawers-create-compat.pw.toml"
 hash = "af87cd9befc42e760f0a01f3e56f2992b0fa025eb7a261ce43d9839391ec9b39"
 metafile = true

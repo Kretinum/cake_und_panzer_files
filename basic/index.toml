@@ -3153,6 +3153,11 @@ hash = "67241a713fbf873928f39f4f7bc7661cb4f2fdcc70a8fe41cdaee8df1faee024"
 metafile = true
 
 [[files]]
+file = "mods/easy-building.pw.toml"
+hash = "d40f63600a6384d10fb560380ad69530108dbe822cdc754c316b90ab2da5edb7"
+metafile = true
+
+[[files]]
 file = "mods/ecliptic-seasons.pw.toml"
 hash = "44c78582b14b04e1714b98c7aa60a651ef913d2d1e51de9d991fd20c557996e0"
 metafile = true
@@ -3633,6 +3638,16 @@ hash = "a758b7b09a8e1c27fa4af0883f3a6d916b98e98ecf71bd277661674f93a308af"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "8d0f5b702b813c816f9197444f59e81c72a01c47ff186f6c771dd5fae2b37190"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "636339949e3f45c2620128d5414071d91e4bdf98deb51f2bd657df157ec76d8b"
+metafile = true
+
+[[files]]
 file = "mods/storage-drawers-create-compat.pw.toml"
 hash = "af87cd9befc42e760f0a01f3e56f2992b0fa025eb7a261ce43d9839391ec9b39"
 metafile = true
@@ -3819,7 +3834,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "40f481f94bf92c3d2b626fb0e3e2567bfcf1f62b344592a06647fe15eb729eea"
+hash = "9b6d5f8923844425f89a6ba545cc2443e454a82273ee1cd556b69b6edd350a42"
 
 [[files]]
 file = "resourcepacks/GupFonts/assets/gup/font/panzer.json"
@@ -3848,6 +3863,10 @@ hash = "df7ae848a850bf48e91ed83f248b47e5b5b4e6124beec998a447ac899e399180"
 [[files]]
 file = "resourcepacks/GupFonts/pack.mcmeta"
 hash = "4fe8f159d1d2efcefdbaf22df44cd88b9f92c9ad3b0925c62f6d6164a7ba3ce9"
+
+[[files]]
+file = "resourcepacks/Unique Dark - Lite - 1.20.2-26.x.zip"
+hash = "ffdb311e8730646db26f20bb272156edf71da1f5d0fbdc0dee91c3c512a842eb"
 
 [[files]]
 file = "servers.dat"
