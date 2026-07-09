@@ -1,0 +1,13 @@
+name = "Simply More"
+filename = "simplymore-forge-1.2.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zhpyD8Y0/versions/bVBS14OK/simplymore-forge-1.2.3.jar"
+hash-format = "sha512"
+hash = "6c06d288c8c2eb183ccbf6298b68460f07dd94a5ef3b4850e5ed674b546a28cea85928e2913a4007ea43d52c3cc8faf936b8c7210fce594c77b5d7b0081f23eb"
+
+[update]
+[update.modrinth]
+mod-id = "zhpyD8Y0"
+version = "bVBS14OK"

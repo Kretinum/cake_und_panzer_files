@@ -3264,6 +3264,31 @@ hash = "3dca11167dd1174ef1f7838267c6977a5cf31fbb0eae32b9955c78a5a7e42bee"
 metafile = true
 
 [[files]]
+file = "mods/simply-bows.pw.toml"
+hash = "8521566f4650d8b0bcf2ff31103655636028538c00540d99fa28839e4e1ef2b8"
+metafile = true
+
+[[files]]
+file = "mods/simply-swords.pw.toml"
+hash = "1d37ac39109aa15d03a3a7ddf6402d63f72277acafca53f61830046acfe6edb0"
+metafile = true
+
+[[files]]
+file = "mods/simply-tooltips.pw.toml"
+hash = "320d755339086e8fb35709328ad7b094ecbf7c500d61c08c535ec7d277fe1053"
+metafile = true
+
+[[files]]
+file = "mods/simplycataclysm.pw.toml"
+hash = "4fd1283e3f2e8dad4c3023f8a77cb071086e5ebcc83f022a1cb060f41b18695a"
+metafile = true
+
+[[files]]
+file = "mods/simplymore.pw.toml"
+hash = "92ff88d6d763defa12eddfbfce2cf152c95e06148278f5292044f7a84a210c12"
+metafile = true
+
+[[files]]
 file = "mods/simulated-cc-compat.pw.toml"
 hash = "ed26ddc7b9aa6b489be5fab5c1ac638f61faa8a559f0cba463a0f2f5d1f5ef96"
 metafile = true
