@@ -2558,6 +2558,11 @@ hash = "719e3806ee365aa3091084a05d6d10174fb3537afd0f2065bb5f0573efcab7d5"
 metafile = true
 
 [[files]]
+file = "mods/create-deep-seas.pw.toml"
+hash = "404db1758af44123b89cbf6e2ffdf4a5cf11b708be665f48657ff40735723152"
+metafile = true
+
+[[files]]
 file = "mods/create-design-n-decor.pw.toml"
 hash = "919ffd6989b6d12c5eb3e1dcbfe3e82e583f57943f6548adca7c3d742edd8ee4"
 metafile = true
@@ -2690,6 +2695,11 @@ metafile = true
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "001d4b692ae0e6b3e167089f131e304973a105dbfcdbc01bba958e75b38043d9"
+metafile = true
+
+[[files]]
+file = "mods/cult-of-azazel.pw.toml"
+hash = "2759b60e3b20ca6b51940bb07a3453704dfe5e3e7487ac25d776549a4be4c0d0"
 metafile = true
 
 [[files]]
