@@ -1310,7 +1310,7 @@ hash = "9f0ada5a7f0193d2d717d1c1736f545f5235c2597213731493b97488617ebbf2"
 
 [[files]]
 file = "config/fancymenu/customization/cup_menu_layout.txt"
-hash = "5669a8ca3fd9a90dbbcc08f6e6be1e322dcf95d8ccd829a2387359bc8a2417fa"
+hash = "ff7a88e5f300dde1e932aa5cd86592b556621ea205fca2a62d4c1e81572f0827"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
