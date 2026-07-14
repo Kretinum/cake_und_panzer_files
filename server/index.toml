@@ -1897,6 +1897,66 @@ file = "config/yes_steve_model/custom/1_1miyu.ysm"
 hash = "c291713b96266e546165c888e1ef75efcceabbbb7f1b59f17e62b2438092a142"
 
 [[files]]
+file = "config/yes_steve_model/custom/AL_Nagato.ysm"
+hash = "7015f8607bbdac5d77aa912afbfa76f2b13aaf0ac4a542573b7ffd2edfcb182e"
+
+[[files]]
+file = "config/yes_steve_model/custom/AL_Ping-Hai_v1.0.ysm"
+hash = "05f04e3e22c20b82f47b261ce4cccd595865e2827dcfda427a96763f96c04d39"
+
+[[files]]
+file = "config/yes_steve_model/custom/Ak_Magallan.ysm"
+hash = "f570da3f3565e113cffbc7472c2b80d55fd4a906473785f26d7f6d8970e83977"
+
+[[files]]
+file = "config/yes_steve_model/custom/Ak_Suzuran.ysm"
+hash = "f34f3dc64e02fbdc90ee62cf012dc4a56eb6387e9f285ab3e2ac3a3d6f27e6d0"
+
+[[files]]
+file = "config/yes_steve_model/custom/Arknights Endfield Laventine.ysm"
+hash = "117c27136bfa9a21aa52d52633c066fb9d63a2b34d382e6e9996e02dcf3830cb"
+
+[[files]]
+file = "config/yes_steve_model/custom/BtR_Hitori-Goto_0.ysm"
+hash = "c30c8cfc97d11d4f79773c8fc84487f93f6d5ec5e179a7a8ba9ca764af34963d"
+
+[[files]]
+file = "config/yes_steve_model/custom/BtR_Hitori-Goto_1.ysm"
+hash = "3a8d3c9e2c6cd6e5940d5e877c1e6d0d07b3521c5032149e353ca678b0cf7696"
+
+[[files]]
+file = "config/yes_steve_model/custom/BtR_Hitori-Goto_v1.0.ysm"
+hash = "126eb58112da8a35cb3dec9b92c90cbdd820accb1dacec4dacfdec096d3f911c"
+
+[[files]]
+file = "config/yes_steve_model/custom/BtR_Kita-Ikuyo_0.ysm"
+hash = "000c2b06759fad06f4e31369f7f289373481716fb1dde7f24697716e7f0dc698"
+
+[[files]]
+file = "config/yes_steve_model/custom/BtR_Kita-Ikuyo_1.ysm"
+hash = "a8b73cb524e5faee77769cda8b12f670d3590db2e1cf809ba510bd92e87b4947"
+
+[[files]]
+file = "config/yes_steve_model/custom/BtR_Nijika-Ijichi.ysm"
+hash = "7ddab4291100caa38f4e7aa948ef2a9c20b38c6016ae1eda2717cf3467efef50"
+
+[[files]]
+file = "config/yes_steve_model/custom/BtR_Nijika-Ijichi_1.ysm"
+hash = "d9d44f0b767e4adba883e1008f9098ca65187d77f2011ffb1ff85184529bdffa"
+
+[[files]]
+file = "config/yes_steve_model/custom/BtR_Ryou-Yamada_0.ysm"
+hash = "8667d44e84b8534d676830ebc1cffa80aced8e2bfa5d0e3a874f4bcc9ecb61f1"
+
+[[files]]
+file = "config/yes_steve_model/custom/BtR_Ryou-Yamada_1.ysm"
+hash = "c3053ffec405490a1351c33f4a7332088f6a9229bd5878e5f27eb44b51df48c3"
+
+[[files]]
+file = "config/yes_steve_model/custom/BtR_Ryou-Yamada_3.ysm"
+hash = "15d9846866b18ee660f32b13dfbb012259d7f597351a09a19d65cd0698e9320a"
+
+[[files]]
 file = "config/yes_steve_model/custom/Endfield_Rossi_v1.1.ysm"
 hash = "1fc6a630a16e69d043e0d1c6990abaa86ab73b80f93c565d1684e612f9b9fa91"
 
@@ -1911,6 +1971,18 @@ hash = "f9755ac89d02273a27557ad26294c0f09736c4a6490fb134c329989da0afc550"
 [[files]]
 file = "config/yes_steve_model/custom/J-20S.ysm"
 hash = "94325aa50e9e3aa364efadfacadd7590d9e8b2e1b4bef287e9c606ea4bc78002"
+
+[[files]]
+file = "config/yes_steve_model/custom/MA_Nanachi.ysm"
+hash = "90d6f9e5425da9b40760022860cb3256d55233c51be28bc3b767c9747bb22d91"
+
+[[files]]
+file = "config/yes_steve_model/custom/Pokemon_Lillie.ysm"
+hash = "1cb276382452bf99f2355b181d603e16b2a3ed8cff9f62241c971d567bbc4f96"
+
+[[files]]
+file = "config/yes_steve_model/custom/Puella Magi Madoka Magica.ysm"
+hash = "fffe11c9b75a8424ee7ad2de1589ca745bee911054fea50338b385eb577d7f1e"
 
 [[files]]
 file = "config/yes_steve_model/custom/Touhou_Flandre_0.ysm"
@@ -1941,8 +2013,88 @@ file = "config/yes_steve_model/custom/Touhou_Flandre_4.ysm"
 hash = "748dd0196b2d8321b10625e748c0c51ad726c6f4f626c1d9970826f25149b643"
 
 [[files]]
+file = "config/yes_steve_model/custom/Touhou_Patchouli-Knowledge.ysm"
+hash = "23cd47a7146ed69fe68ec0a0f323998f307c94d768f5b013d1b0d302e9474e2c"
+
+[[files]]
 file = "config/yes_steve_model/custom/VOX噪轰引擎1.0.ysm"
 hash = "f9208fb39c0df338713303b0178e0213e389e0b0bd41597e3f6dc858435b6c5f"
+
+[[files]]
+file = "config/yes_steve_model/custom/Vtuber_Gura_1.ysm"
+hash = "603d891e011fe9c1f15f3f1cae142d4483093641887fb0925c0bd269c55b7b80"
+
+[[files]]
+file = "config/yes_steve_model/custom/Vtuber_Neuro.ysm"
+hash = "3565780afe412e76b7238fb6c6cbeccb7575e1b4c4561ae2b0eae6eda14f588a"
+
+[[files]]
+file = "config/yes_steve_model/custom/Vtuber_Neuro_1.4_CRW.ysm"
+hash = "cb5dfd0746fe820419e20bcc101f0387b750a3281f99199a02165a815ea1fef2"
+
+[[files]]
+file = "config/yes_steve_model/custom/ZZZ_Angels-of-Delulu_01.ysm"
+hash = "797a9cc9eeece1ae0d0368b4c4f90e09764bb487f511bee1b5d91867ce9d9109"
+
+[[files]]
+file = "config/yes_steve_model/custom/ZZZ_Angels-of-Delulu_02.ysm"
+hash = "e4079b51747bea747f291d6052cc4700321f52ab9e76c4eb0411925f771e7dcc"
+
+[[files]]
+file = "config/yes_steve_model/custom/ZZZ_Angels-of-Delulu_03.ysm"
+hash = "9ceb1a9ddea6605ca77562193104c474af7fbf14c4274f0d17863da5262f50e2"
+
+[[files]]
+file = "config/yes_steve_model/custom/ZZZ_Ellen_1/animations/arm.animation.json"
+hash = "38db4c2f15d0c2d3627200658a66cd6b4d064a21a1325fbeb71707a59614c5c2"
+
+[[files]]
+file = "config/yes_steve_model/custom/ZZZ_Ellen_1/animations/carryon.animation.json"
+hash = "6e8d3afe0c3baafff8f7f3e0e30ef3c621c667be5c346af73398f5fd3cb89ca5"
+
+[[files]]
+file = "config/yes_steve_model/custom/ZZZ_Ellen_1/animations/extra.animation.json"
+hash = "7e2d6a5ed24a35287e6401e8c6a1ff4cf3acd349457938cc046f4569f0b14f0d"
+
+[[files]]
+file = "config/yes_steve_model/custom/ZZZ_Ellen_1/animations/main.animation.json"
+hash = "144c56ab03011a8e49184478c4413dd56ba1ac00c76e51bfa7619d06b505b035"
+
+[[files]]
+file = "config/yes_steve_model/custom/ZZZ_Ellen_1/animations/tac.animation.json"
+hash = "86c174ce013475a02af283d7adbceb95d3e36a881f55a9501aaa1c1a2db9fe42"
+
+[[files]]
+file = "config/yes_steve_model/custom/ZZZ_Ellen_1/avatar/§c寒叔.png"
+hash = "28e19d6587eb8d647553eb54267c3793ea5f8a5de70d5b58314647b9d63257b5"
+
+[[files]]
+file = "config/yes_steve_model/custom/ZZZ_Ellen_1/avatar/§c烈鸟比百.png"
+hash = "7f6a5899c023a97b9315642e24f8d7ab96047014cb79fef3ab1631b06f63d872"
+
+[[files]]
+file = "config/yes_steve_model/custom/ZZZ_Ellen_1/models/arm.json"
+hash = "75fa6bc3e609e42fec4891185cc33a5d14b75d4af79d52313bcda5ab5b304c3b"
+
+[[files]]
+file = "config/yes_steve_model/custom/ZZZ_Ellen_1/models/arrow.json"
+hash = "a6874d8a45e727f6064ae5ff29a18dd4fc776bdad66b79c88e8514c7fe95a2b2"
+
+[[files]]
+file = "config/yes_steve_model/custom/ZZZ_Ellen_1/models/main.json"
+hash = "d9ac416d6fd5648f6475804e0e19ba8f38def63f0f1a82cff3ce8dce0cb031d0"
+
+[[files]]
+file = "config/yes_steve_model/custom/ZZZ_Ellen_1/textures/arrow.png"
+hash = "aeabb5efc19dc3fe19bd5bd6f9727a0c467810c3fae08bffbb5d424c72049329"
+
+[[files]]
+file = "config/yes_steve_model/custom/ZZZ_Ellen_1/textures/texture.png"
+hash = "5406e7620c866e9dd35e1ff2fd58f19cb064fdd07bd06a6665ce8543f3ae6fa1"
+
+[[files]]
+file = "config/yes_steve_model/custom/ZZZ_Ellen_1/ysm.json"
+hash = "62f801afdae4e43d55b96a1f688505ca463c3185d75148b487182bc5bc2c90f9"
 
 [[files]]
 file = "config/yes_steve_model/custom/blacklist.txt"
