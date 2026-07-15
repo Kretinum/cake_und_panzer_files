@@ -74,7 +74,7 @@
 		#so it is recommended to only set this option once based on the server's intended gameplay style.
 		#Other important options related to this feature are "claimBonusPerPartyMember", "forceloadBonusPerPartyMember",
 		#"claimBonusForPartyOwner" and "forceloadBonusForPartyOwner".
-		partyOwnedClaims = false
+		partyOwnedClaims = true
 		#How much the party's claim limit should be increased per party member when option "partyOwnedClaims" is enabled.
 		# Default: 100
 		# Range: > 0
