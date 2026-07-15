@@ -1,0 +1,8 @@
+name = "OfflineSkins"
+filename = "offlineskins-1.21.1-v1a-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://github.com/Kretinum/cake_und_panzer_files/releases/download/loose-jars/offlineskins-1.21.1-v1a-neoforge.jar"
+hash-format = "sha256"
+hash = "e9927be7cba0bc7c7ce4705458e428491063026d18ecaa30f57513bd2b3d0052"

@@ -3279,6 +3279,11 @@ hash = "ba3c8929851f6f03b325c52e3c42fa5b995d9ec6ab74e425ee623febae46ebff"
 metafile = true
 
 [[files]]
+file = "mods/offlineskins.pw.toml"
+hash = "740a5354111cd5641a90b08efc6d360b254ffc7d54ca89bb3ee7be81c132d75d"
+metafile = true
+
+[[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
 hash = "8173407b42f4c93898568c4e043d1a270159d1e4fef9d5a317de2571e31dad28"
 metafile = true
