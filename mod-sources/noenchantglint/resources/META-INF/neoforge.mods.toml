@@ -1,0 +1,19 @@
+modLoader = "javafml"
+loaderVersion = "[4,)"
+license = "All Rights Reserved"
+
+[[mods]]
+modId = "noenchantglint"
+version = "1.0.0"
+displayName = "No Enchant Glint (perf)"
+description = "Client-only: disables the enchantment glint render layer to remove the glint render-pass cost that Iris makes very expensive on 1.21.1. Cosmetic only (no sparkle)."
+
+[[mixins]]
+config = "noenchantglint.mixins.json"
+
+[[dependencies.noenchantglint]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1,)"
+ordering = "NONE"
+side = "CLIENT"

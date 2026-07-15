@@ -1,0 +1,8 @@
+name = "YSM x TaCZ First-Person Fix"
+filename = "ysmtaczfix-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://github.com/Kretinum/cake_und_panzer_files/releases/download/loose-jars/ysmtaczfix-1.0.0.jar"
+hash-format = "sha256"
+hash = "2fd6f9251e33783ea703127bcfa74ece5e7a8b764a5db70c372e92517cc63a19"

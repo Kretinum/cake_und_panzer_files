@@ -3304,6 +3304,11 @@ hash = "747b818e4330f3177f49cd159e1f289177bb7412b48c0bc2f1bf7421c490e9f4"
 metafile = true
 
 [[files]]
+file = "mods/noenchantglint.pw.toml"
+hash = "d1e265cbc02d90a8cf602fcb81ed07bfbf5783e56f8de5c5d354470650ed0158"
+metafile = true
+
+[[files]]
 file = "mods/noisiumforked.pw.toml"
 hash = "5135baf1c100d5b0ab9a42212345e859f766887db4b2e80251c7ca64200b4d4b"
 metafile = true
@@ -3611,6 +3616,11 @@ metafile = true
 [[files]]
 file = "mods/yes-steve-model.pw.toml"
 hash = "2d51133b1352b4dd48f29d54009a5efdb2ecc3a7bc17e8cf49b0e19350b21ebc"
+metafile = true
+
+[[files]]
+file = "mods/ysmtaczfix.pw.toml"
+hash = "ed828469bb07eb725415be17ced043b3a9610a4c55735ac04c35625f4ac0442d"
 metafile = true
 
 [[files]]

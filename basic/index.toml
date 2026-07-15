@@ -3564,6 +3564,11 @@ hash = "2d51133b1352b4dd48f29d54009a5efdb2ecc3a7bc17e8cf49b0e19350b21ebc"
 metafile = true
 
 [[files]]
+file = "mods/ysmtaczfix.pw.toml"
+hash = "ed828469bb07eb725415be17ced043b3a9610a4c55735ac04c35625f4ac0442d"
+metafile = true
+
+[[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "f1097459db180a296408da66b34502c60624f90b6afb7aa2df72154f3a6c392f"
 metafile = true

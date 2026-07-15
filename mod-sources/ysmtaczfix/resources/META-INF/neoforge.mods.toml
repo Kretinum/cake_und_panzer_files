@@ -1,0 +1,26 @@
+modLoader = "javafml"
+loaderVersion = "[4,)"
+license = "All Rights Reserved"
+
+[[mods]]
+modId = "ysmtaczfix"
+version = "1.0.0"
+displayName = "YSM x TaCZ First-Person Fix"
+description = "Hides the Yes Steve Model self-model in first person while a TaCZ gun is held, removing the duplicate/unlit gun render. Client-only."
+
+[[mixins]]
+config = "ysmtaczfix.mixins.json"
+
+[[dependencies.ysmtaczfix]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1,)"
+ordering = "NONE"
+side = "CLIENT"
+
+[[dependencies.ysmtaczfix]]
+modId = "yes_steve_model"
+type = "optional"
+versionRange = "*"
+ordering = "AFTER"
+side = "CLIENT"

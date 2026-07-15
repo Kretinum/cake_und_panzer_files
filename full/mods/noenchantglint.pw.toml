@@ -1,0 +1,8 @@
+name = "No Enchant Glint (perf)"
+filename = "noenchantglint-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://github.com/Kretinum/cake_und_panzer_files/releases/download/loose-jars/noenchantglint-1.0.0.jar"
+hash-format = "sha256"
+hash = "60b02a75fc485f287f20f187b069dcfffaeb35906ca580478803358b255d1856"
