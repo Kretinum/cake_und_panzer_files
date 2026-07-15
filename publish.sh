@@ -8,7 +8,7 @@
 # What it does: refresh packs -> commit+push -> tag + GitHub release ->
 # warm the jsDelivr cache for the new tag -> verify a clean install works.
 set -e
-export PATH="$PATH:$HOME/go/bin:/opt/homebrew/bin"
+export PATH="$HOME/bin:$PATH:$HOME/go/bin:/opt/homebrew/bin"
 
 GH_REPO="Kretinum/cake_und_panzer_files"
 REPO_DIR="$(cd "$(dirname "$0")" && pwd)"
@@ -89,7 +89,7 @@ done | sort -u > "$warm_list"
 python3 - "$GH_REPO" "$NEW" "$warm_list" <<'PY'
 import sys, urllib.parse, urllib.request, concurrent.futures
 repo, tag, listfile = sys.argv[1], sys.argv[2], sys.argv[3]
-paths = [l.strip() for l in open(listfile) if l.strip()]
+paths = [l.strip() for l in open(listfile, encoding="utf-8") if l.strip()]
 def hit(path):
     enc = urllib.parse.quote(path)
     url = f"https://cdn.jsdelivr.net/gh/{repo}@{tag}/{enc}"
