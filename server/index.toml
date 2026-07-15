@@ -2711,6 +2711,11 @@ hash = "2629c5276f4158eeabf50261f4aa0d4d2f63fbe130bdc9f8f318afadbb7c8e19"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "598c96ceece7dd1ddb0cdf859c531a4f84cc2d89e5470a8c4067a9e16093d7bf"
+metafile = true
+
+[[files]]
 file = "mods/jupiter.pw.toml"
 hash = "3f44721c554a06b9e922c6102bed6402fed57d6d340de0299ee4237544724c48"
 metafile = true
