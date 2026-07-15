@@ -1541,6 +1541,10 @@ file = "config/offroad-server.toml"
 hash = "7dda83d4436419564b495e65b4123ab8453eb926cdd8dabc526e41d3ace6bf40"
 
 [[files]]
+file = "config/openpartiesandclaims-server.toml"
+hash = "ea16e098bbd0f54865fb0b95dc8f39dabae33e352513f3897594414600f78911"
+
+[[files]]
 file = "config/particle_core_config.toml"
 hash = "9f21aae26ba31a4fd9bab85c4bb4e37d10ac408aff9feed91ad6acdf1e269634"
 
@@ -2913,6 +2917,11 @@ metafile = true
 [[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
 hash = "cd961c65ded77d098f1e13aaca7786d347164d6f3520b2174670a5e9241484a3"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "cb6136771bc5809b524b682dec39298032011fa926aebfafaece9879ab79623d"
 metafile = true
 
 [[files]]
