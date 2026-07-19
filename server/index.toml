@@ -1921,6 +1921,14 @@ file = "config/yes_steve_model/custom/Arknights Endfield Laventine.ysm"
 hash = "117c27136bfa9a21aa52d52633c066fb9d63a2b34d382e6e9996e02dcf3830cb"
 
 [[files]]
+file = "config/yes_steve_model/custom/Blue Archive - Aoba.ysm"
+hash = "ab53007be3e96dbdefc2a405dd831ce43c37468bc0244a2c0b28d01efc8cbb28"
+
+[[files]]
+file = "config/yes_steve_model/custom/Blue Archive - Tendou Kei.ysm"
+hash = "b465e4d0f4ef498323d8a93164c550c663dc43433caaeb9c5711c04565ddc6ca"
+
+[[files]]
 file = "config/yes_steve_model/custom/BtR_Hitori-Goto_0.ysm"
 hash = "c30c8cfc97d11d4f79773c8fc84487f93f6d5ec5e179a7a8ba9ca764af34963d"
 
@@ -2427,6 +2435,11 @@ metafile = true
 [[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "a558bb5a1ff132b6a3379f302e48ef42a6f1947ff8196375198dd88555a96d54"
+metafile = true
+
+[[files]]
+file = "mods/create-cobblestone.pw.toml"
+hash = "42c1a422e697288fa65a78fd1aa3c88f9c5246fb61f95ba219fadb600ab18a9e"
 metafile = true
 
 [[files]]
