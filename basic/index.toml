@@ -1934,7 +1934,7 @@ hash = "944ba0d36dfe00436e814fffd736acdd51292da18a01a060ea6ffbcf3dc7388b"
 
 [[files]]
 file = "config/simulated-server.toml"
-hash = "74ceaca226933e2471df76e5f6a8b1d0e2e339754419fd7c0c8f37fb3b90d243"
+hash = "7739d2252c9f27848ff3c5d16da9eb4cd46096ae4aa55c0dac7a5a7f6e0d25a8"
 
 [[files]]
 file = "config/simulated_cc_compat-startup.toml"
