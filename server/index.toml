@@ -2241,6 +2241,18 @@ file = "kubejs/data/eclipticseasons/tags/worldgen/biome/soft.json"
 hash = "9fecc54ae314ec1239dd54143e013b7d8ef4e6b7353fe1d157a1a5e760907407"
 
 [[files]]
+file = "kubejs/data/tracks/loot_table/blocks/suspension_track.json"
+hash = "cf5b44abde5ad97d0700c09b2984929a7cb0612a269b833f4ab2a5a4c9dd8be3"
+
+[[files]]
+file = "kubejs/data/tracks/loot_table/blocks/track_drive_wheel.json"
+hash = "4540e3f1e8f51f8d4f66f80ca224b7331195d1f783283d90ecc0c458afc8418b"
+
+[[files]]
+file = "kubejs/data/tracks/loot_table/blocks/track_mount.json"
+hash = "140bdfa2371798ae85945c08dfda5921a45804e67f848306bf0f31dd5d15ca14"
+
+[[files]]
 file = "kubejs/server_scripts/tacz_create_ammo.js"
 hash = "813d9e73a665aa823f823cb12c0976521bd861f9bfc3ad8832672b76ff110e5c"
 
