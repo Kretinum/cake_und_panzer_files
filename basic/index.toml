@@ -2529,6 +2529,11 @@ hash = "603100792bddc83201e1a7fdc8055298741d29f4f95569f0ae08a26007994bf9"
 metafile = true
 
 [[files]]
+file = "mods/amplified-nether.pw.toml"
+hash = "bab5e563745cc5de2b70d95706944a1daccdb00dd06c77a955d1455e7b1bb039"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "43e2d4365fb5e804dbed3488005273e814a32e990f04d31d871d3d2ddf6d9d8d"
 metafile = true
@@ -2694,6 +2699,11 @@ hash = "590301d78420a528e80a4d44fcb0320ddd218a6780c72474c9f3a18fbcec3ee3"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-compatability.pw.toml"
+hash = "889d2c573f46e94318761c1e26d84e3c0520425cf12187f4b97ad3d51fd26363"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics-rechiseled-compatibility.pw.toml"
 hash = "eeedd3fb2f169d4fa3c46ee05521827e5ab35cd51ea40382644853989cf33f34"
 metafile = true
@@ -2776,6 +2786,11 @@ metafile = true
 [[files]]
 file = "mods/create-factory.pw.toml"
 hash = "5f847ca31b11cfb624f752035bbccf17ecaa48c48b7c0e964c89d28469af2e40"
+metafile = true
+
+[[files]]
+file = "mods/create-grappling-hooks.pw.toml"
+hash = "4dc6f01a125f7b4beb153f7829af26a603137344b00b16a330866cc33e9971ad"
 metafile = true
 
 [[files]]
@@ -3151,11 +3166,6 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "5083db967b008fbad35bc554e5a0e937764d6a0a038a77c695669e3a9f6c6431"
-metafile = true
-
-[[files]]
-file = "mods/lunar.pw.toml"
-hash = "e94854bfa558e89e334a8563852b00a8341e0d76f676e9d50157999ed7d8c205"
 metafile = true
 
 [[files]]
