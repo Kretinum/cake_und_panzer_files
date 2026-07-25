@@ -1881,10 +1881,6 @@ file = "config/sable-common.toml"
 hash = "0614f722541191b6ddcfb686f97d5ea9a3280d32f8e0607c0d31dffe9a2dc5d7"
 
 [[files]]
-file = "config/shouldersurfing-client.toml"
-hash = "698370c14a2a6a937bfd1037a2fd857ffe3195518d57f5fbeed4787bc782e70f"
-
-[[files]]
 file = "config/simplybows/config.toml"
 hash = "57d3b970f8502871a518de15056eb12c98c6dcf30c47d383eb6e8e2a3205d71e"
 
@@ -2575,6 +2571,11 @@ metafile = true
 [[files]]
 file = "mods/better-combat.pw.toml"
 hash = "f2531c96cec4c8bca8ac2fce2b8a152237a15cb6ed5ed1cc9a98b8166dad792e"
+metafile = true
+
+[[files]]
+file = "mods/better-third-person.pw.toml"
+hash = "e1f1588b18947699ddc9b4f7c5b5406c5559155b8cb52dcd0f203c07c31cd0b8"
 metafile = true
 
 [[files]]
@@ -3415,11 +3416,6 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "3e4f10e6a4af780cc628cfec8a59c3aeaf28a986761ab7973168e8571a22b4bc"
-metafile = true
-
-[[files]]
-file = "mods/shoulder-surfing-reloaded.pw.toml"
-hash = "fe7103696857d60721c21e4a6d67d29086b0ea46bf24617aeca9602b000b2a7c"
 metafile = true
 
 [[files]]

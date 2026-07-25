@@ -1641,10 +1641,6 @@ file = "config/sable-common.toml"
 hash = "0614f722541191b6ddcfb686f97d5ea9a3280d32f8e0607c0d31dffe9a2dc5d7"
 
 [[files]]
-file = "config/shouldersurfing-client.toml"
-hash = "698370c14a2a6a937bfd1037a2fd857ffe3195518d57f5fbeed4787bc782e70f"
-
-[[files]]
 file = "config/simplybows/config.toml"
 hash = "57d3b970f8502871a518de15056eb12c98c6dcf30c47d383eb6e8e2a3205d71e"
 
