@@ -2579,11 +2579,6 @@ hash = "f2531c96cec4c8bca8ac2fce2b8a152237a15cb6ed5ed1cc9a98b8166dad792e"
 metafile = true
 
 [[files]]
-file = "mods/better-third-person.pw.toml"
-hash = "e1f1588b18947699ddc9b4f7c5b5406c5559155b8cb52dcd0f203c07c31cd0b8"
-metafile = true
-
-[[files]]
 file = "mods/better-village.pw.toml"
 hash = "9902319dac30233792e0010cf16cc1f338c1047c81e02c15dccf9549725fff48"
 metafile = true
