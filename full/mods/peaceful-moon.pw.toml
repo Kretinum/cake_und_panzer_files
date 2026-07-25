@@ -1,0 +1,13 @@
+name = "Peaceful Moon"
+filename = "PeacefulMoon-1.21.1-Neoforge-Fabric-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cf8c88a983279553487c9b58ea53137ee9389d17"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7190011
+project-id = 1053237

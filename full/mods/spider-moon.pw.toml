@@ -1,0 +1,13 @@
+name = "Spider Moon"
+filename = "SpiderMoon-1.21.1-NeoForge-fabric-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0548dca65a87b8f78f0720d0fa6f8e7eeeef5e85"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7139032
+project-id = 1057511

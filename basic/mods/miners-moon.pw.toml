@@ -1,0 +1,13 @@
+name = "Miner's Moon"
+filename = "MinersMoon1.21.1-NeoForge-Fabric-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "57c13c192f47bb1dbc188f16be38ec5bf7415b22"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7139041
+project-id = 1051270

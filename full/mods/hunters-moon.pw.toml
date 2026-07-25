@@ -1,0 +1,13 @@
+name = "Hunter's Moon"
+filename = "HuntersMoon-NeoForge-Fabric-1.21-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c8f686061cbee457ae1cd9fe2cf391ea23b53587"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7141832
+project-id = 1051527

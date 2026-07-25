@@ -2644,6 +2644,11 @@ hash = "dc4e8cf1e194a0de8f7cd4cbc5c5fb2e50cfcc06aca5f3b17dce7b4c00d2fbbe"
 metafile = true
 
 [[files]]
+file = "mods/chaos-moon.pw.toml"
+hash = "23ee9de3c1d537dfea631a342205e987e2e83dc866d95c194f0fb62a9398dfa8"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "1a2cd641d62434c0488552226ec0be804b994ec42df125ee05d7bfc1cd80522c"
 metafile = true
@@ -2914,6 +2919,11 @@ hash = "0035495b2e145c17b6f7e4361c1bf29c1857feb2823149b8dcf8bedd11aba078"
 metafile = true
 
 [[files]]
+file = "mods/data-anchor.pw.toml"
+hash = "269ec2e84dda586fcc3bcf843c23357e3f9cc5bcb075fb7a04b7cbc50f5b6836"
+metafile = true
+
+[[files]]
 file = "mods/deeperdarker.pw.toml"
 hash = "72f9da5103e96543833a3379dcb4cad4354d64c7a92c264356c89e2d76ce65fb"
 metafile = true
@@ -2966,6 +2976,11 @@ metafile = true
 [[files]]
 file = "mods/ends-delight.pw.toml"
 hash = "ec8b8f97195e49f8c0542646078bae2c436afcc459c512c6be6554e21b04be62"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-celestials.pw.toml"
+hash = "39cbab92fb61fa1809540a828858e16c2386ff6fbd5bc01140d180c74ad94002"
 metafile = true
 
 [[files]]
@@ -3046,6 +3061,16 @@ metafile = true
 [[files]]
 file = "mods/gunsmithlib.pw.toml"
 hash = "0d1f21ff57102bb74285e5c89967357f827a1beadbb63c4c675dfea698a51484"
+metafile = true
+
+[[files]]
+file = "mods/horde-moon.pw.toml"
+hash = "3b28b7abc4c5275ba1c9f10232f51bfbc71bce18afd34eac5c23f928575bf472"
+metafile = true
+
+[[files]]
+file = "mods/hunters-moon.pw.toml"
+hash = "353f2fc13a2b41eb414f12d5fba4203e4bf8f956901f6e64041548f3ff1664cb"
 metafile = true
 
 [[files]]
@@ -3244,6 +3269,11 @@ hash = "1b47b1ad9033cb0d41f2a136db1433b040f1df06150344eaa84442c3afa9e239"
 metafile = true
 
 [[files]]
+file = "mods/miners-moon.pw.toml"
+hash = "e46b8caa63eafe74c4c23e67583e16111be450351307f7b0e0721c48af9de8a8"
+metafile = true
+
+[[files]]
 file = "mods/mod-menu-(neoforge-edition).pw.toml"
 hash = "b16c14d086de27ed2108e74203665b6196be94cbdd2961f92da6ad2ef0a30f14"
 metafile = true
@@ -3341,6 +3371,11 @@ metafile = true
 [[files]]
 file = "mods/particle-core.pw.toml"
 hash = "b1949e63c62742b6d21bf3e4e13aa457150fefc911f52489a457aef922edac91"
+metafile = true
+
+[[files]]
+file = "mods/peaceful-moon.pw.toml"
+hash = "2e80c4642a7c8d953c6eeca4de66d6f8d82eaf1102b7c6ed35efc4eb2e5a2307"
 metafile = true
 
 [[files]]
@@ -3481,6 +3516,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "636339949e3f45c2620128d5414071d91e4bdf98deb51f2bd657df157ec76d8b"
+metafile = true
+
+[[files]]
+file = "mods/spider-moon.pw.toml"
+hash = "abe756a7e626c6c93ca4be6f5d222d8f7d520d8734fc0f209a6b7f74bec37776"
 metafile = true
 
 [[files]]

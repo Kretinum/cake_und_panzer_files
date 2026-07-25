@@ -1,0 +1,13 @@
+name = "Horde Moon"
+filename = "ZombieMoon-1.21-2.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c5a70ad5b2712410328ef9c15a6b1306eb226b88"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7058994
+project-id = 1052221
