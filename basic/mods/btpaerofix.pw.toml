@@ -1,0 +1,8 @@
+name = "Better Third Person x Aeronautics Camera Fix"
+filename = "btpaerofix-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://github.com/Kretinum/cake_und_panzer_files/releases/download/loose-jars/btpaerofix-1.0.0.jar"
+hash-format = "sha256"
+hash = "e32446e5396e2a4590a8fb2df22e1e5abe9e52e4364a4cb60d2e3e4e6a910501"

@@ -1,0 +1,33 @@
+modLoader = "javafml"
+loaderVersion = "[4,)"
+license = "All Rights Reserved"
+
+[[mods]]
+modId = "btpaerofix"
+version = "1.0.0"
+displayName = "Better Third Person x Aeronautics Camera Fix"
+description = "Makes Better Third Person yield the camera while piloting a Create Aeronautics / Sable ship, so the F5 third-person / ship view works again. Client-only."
+
+[[mixins]]
+config = "btpaerofix.mixins.json"
+
+[[dependencies.btpaerofix]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1,)"
+ordering = "NONE"
+side = "CLIENT"
+
+[[dependencies.btpaerofix]]
+modId = "betterthirdperson"
+type = "required"
+versionRange = "*"
+ordering = "AFTER"
+side = "CLIENT"
+
+[[dependencies.btpaerofix]]
+modId = "sable"
+type = "required"
+versionRange = "*"
+ordering = "AFTER"
+side = "CLIENT"

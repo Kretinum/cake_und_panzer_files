@@ -1,0 +1,8 @@
+name = "Graveyard Nameless Hanged Crash Fix"
+filename = "graveyardfix-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://github.com/Kretinum/cake_und_panzer_files/releases/download/loose-jars/graveyardfix-1.0.0.jar"
+hash-format = "sha256"
+hash = "73653b2dd1a5a357dc4d6c8e3e51dc78c977ecfc5c95d6e7f16be62e2f49633d"

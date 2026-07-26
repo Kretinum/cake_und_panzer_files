@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.cake.graveyardfix.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "NamelessHangedEntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
