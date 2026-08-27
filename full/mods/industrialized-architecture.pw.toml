@@ -3,11 +3,6 @@ filename = "i_architecture-0.1.1b.jar"
 side = "both"
 
 [download]
+url = "https://github.com/Kretinum/cake_und_panzer_files/releases/download/loose-jars/i_architecture-0.1.1b.jar"
 hash-format = "sha1"
 hash = "300de76d253d2491bcca584190003fc6c93327c0"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 7350975
-project-id = 1316585

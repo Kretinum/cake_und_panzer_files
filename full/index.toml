@@ -2844,7 +2844,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-linear-bearing.pw.toml"
-hash = "386bb916f6ad29a4ccae107ae211ae8af79d589bd9b8c4d3876d997b0f077220"
+hash = "6f4a6acab4e69c77a71a06d8cd5deaaa7f8bafb7b10aefc1614ce9edcbcab92a"
 metafile = true
 
 [[files]]
@@ -3169,7 +3169,7 @@ metafile = true
 
 [[files]]
 file = "mods/industrialized-architecture.pw.toml"
-hash = "be17370c2f959697b1d75cf87036b58bdb01c45de9205c9e7ee8c7f354078ee9"
+hash = "ce82d227ee05e027c180879d0f149a759b25e96fc032ab91362ab7c4aa2b6f0a"
 metafile = true
 
 [[files]]
