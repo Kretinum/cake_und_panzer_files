@@ -1018,7 +1018,7 @@ hash = "d3307a45514d471463698d8a44683ae1b724440b20d4fd9229bd77195d546b18"
 
 [[files]]
 file = "config/createaddition-common.toml"
-hash = "a9ac73605dc02f11a5e5a059f44e15e389d5e16d98b6bfbebaac22cff42891d4"
+hash = "7e24f21ba000508dfa3ec45c56806091673ef334ff560466bfb47929f58b0212"
 
 [[files]]
 file = "config/createbigcannons-client-1.toml.bak"
@@ -1178,7 +1178,7 @@ hash = "0a22b4e692687744d76c3e02d2014d4f03ffb3127aae693d455893ac28b5f96b"
 
 [[files]]
 file = "config/eclipticseasons-common.toml"
-hash = "af4bdde517cbafba397623b5d7f2d8d2c89824302505a0ed9abd44f0671c37ff"
+hash = "e5c4f95aecfd297d8d822af2949dbe0bbf7f58b0bfa2fd09520655ae6d815f4d"
 
 [[files]]
 file = "config/eclipticseasons-mixins.toml"
@@ -2253,6 +2253,10 @@ file = "kubejs/server_scripts/raw_metals_tag.js"
 hash = "01e9655b41a1ae3efdbe800eaca90102c3ca5c7c8de1987e905f87a08cc61786"
 
 [[files]]
+file = "kubejs/server_scripts/steel_unify.js"
+hash = "9656b37fff5aeea670974fe843a1a920f8ef81d2af1111954b07628768a143c2"
+
+[[files]]
 file = "kubejs/server_scripts/tacz_create_ammo.js"
 hash = "813d9e73a665aa823f823cb12c0976521bd861f9bfc3ad8832672b76ff110e5c"
 
@@ -2375,8 +2379,18 @@ hash = "afd64d9abd48f7a382c60faf6efeb0b4d4ae3ccd85cb1239edf0e6e9e1c7f96e"
 metafile = true
 
 [[files]]
+file = "mods/cbc-neo-warfare.pw.toml"
+hash = "372291300bbf4e4a0589d5c6bc9b075d28b70d5bf247d1b64ab6f520b68e3e7b"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "645e658646103a772d8c6afe3804f458ba7bbd1996a8c7973fb0d00b05303c5f"
+metafile = true
+
+[[files]]
+file = "mods/ccc-redstone-link.pw.toml"
+hash = "dab2b5773b6130d72d77757de5072deb23104cc50ef2b3e57301ae72e0d75b27"
 metafile = true
 
 [[files]]
@@ -2535,6 +2549,11 @@ hash = "924833e3a9815df9aa977b416ea2560728e48a4b71316b0d6dd2a08c56d75982"
 metafile = true
 
 [[files]]
+file = "mods/create-linear-bearing.pw.toml"
+hash = "386bb916f6ad29a4ccae107ae211ae8af79d589bd9b8c4d3876d997b0f077220"
+metafile = true
+
+[[files]]
 file = "mods/create-liquid-fuel.pw.toml"
 hash = "a59a16e03b5aed3e74bd60bde075effa549f0452f30111db02d6575ca80d5584"
 metafile = true
@@ -2567,6 +2586,11 @@ metafile = true
 [[files]]
 file = "mods/create-radars.pw.toml"
 hash = "e1f87adf03f0930c6c7349f0baa8fb7e19592f7f4cc0fbef96f95a4d8dabd051"
+metafile = true
+
+[[files]]
+file = "mods/create-railgun.pw.toml"
+hash = "fbd21243493c1a05e88bb8364be85ca2bc2abc0ad54e7dcc71765f1e0d1744b5"
 metafile = true
 
 [[files]]
@@ -2777,6 +2801,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "cdd45f641b577d1f7eaf7e35f929f8471694da229f606882a2956d3589b672eb"
+metafile = true
+
+[[files]]
+file = "mods/industrialized-architecture.pw.toml"
+hash = "be17370c2f959697b1d75cf87036b58bdb01c45de9205c9e7ee8c7f354078ee9"
 metafile = true
 
 [[files]]
@@ -3010,6 +3039,11 @@ hash = "965ce7894aa8651410e9b8d51fcb22d77cf0c6749471f08bfe9685613d4f3188"
 metafile = true
 
 [[files]]
+file = "mods/power-grid.pw.toml"
+hash = "0a8751beba30f064c60e2baa923aa677ff2e885f065cff915a9e771190c47053"
+metafile = true
+
+[[files]]
 file = "mods/prickle.pw.toml"
 hash = "b53e3e3a61cee85fddb4f54096d9a46326a9c3cf44db2dff66b878fcc59883df"
 metafile = true
@@ -3057,6 +3091,11 @@ metafile = true
 [[files]]
 file = "mods/rightclickharvest.pw.toml"
 hash = "51a84478d044e05497560272352e297617c6e8ac81e21ec4de6b1a106f83c1b2"
+metafile = true
+
+[[files]]
+file = "mods/ritchies-projectile-library.pw.toml"
+hash = "c62b51a8248d15e3cb63880ac123a92dd6a67973a1eafc4c4cb09f3f74481f78"
 metafile = true
 
 [[files]]

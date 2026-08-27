@@ -1,0 +1,13 @@
+name = "Create: Railgun"
+filename = "createrailgun-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NPu99btt/versions/biD9dbhy/createrailgun-1.0.3.jar"
+hash-format = "sha512"
+hash = "74f1bb4a11a54a85fb6d2a8f384b5f935f1d87f0aafc40b58952a23aaf97ddd28a2cf7c741dd0c398fef4ea10ae0f6fa70abbc8602404723ee0bb42d734b5a4d"
+
+[update]
+[update.modrinth]
+mod-id = "NPu99btt"
+version = "biD9dbhy"
