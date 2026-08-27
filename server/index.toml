@@ -2475,7 +2475,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
-hash = "11b739480eaecf4941f768a341e9ba4fd3388457a6451ac952c066073ac9c9e2"
+hash = "a0e9ff95570cd9af3374ca8b44aa095447baf94e565f46ae99819d52a9b48dc1"
 metafile = true
 
 [[files]]
