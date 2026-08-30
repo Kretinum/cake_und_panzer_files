@@ -2249,6 +2249,10 @@ file = "kubejs/data/tracks/loot_table/blocks/track_mount.json"
 hash = "140bdfa2371798ae85945c08dfda5921a45804e67f848306bf0f31dd5d15ca14"
 
 [[files]]
+file = "kubejs/server_scripts/charcoal_in_powergrid.js"
+hash = "4014be8cf3419c3139d1bfda5a9a48746d3ed959e3a240ef94f0599e3f5cfef0"
+
+[[files]]
 file = "kubejs/server_scripts/raw_metals_tag.js"
 hash = "01e9655b41a1ae3efdbe800eaca90102c3ca5c7c8de1987e905f87a08cc61786"
 
@@ -2636,6 +2640,11 @@ metafile = true
 [[files]]
 file = "mods/createaddition.pw.toml"
 hash = "ec2a339414138859f8fe768120e735bfaaef950a9d06b333570cc44ab6b3d5db"
+metafile = true
+
+[[files]]
+file = "mods/createaeroploughroll.pw.toml"
+hash = "ee3b7d4d9aedbd5af12553b64fe8951d9c1b9d59f606919122311dc01e5505da"
 metafile = true
 
 [[files]]
